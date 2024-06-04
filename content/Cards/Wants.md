@@ -9,6 +9,10 @@ A space for a collection of things I want!
 ## Woodworking
 
 - Digital Calipers
+- Routing Table
+- Hand Router
+- Belt Sander
+- ShopVac Adapter for Miter Saw
 
 ## TTRPGs
 

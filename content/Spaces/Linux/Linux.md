@@ -8,12 +8,13 @@ I've gotten the application to launch with the java version on EOS, but there's 
 
 I'm loving the customizability. Gaming has become a non-issue for the [[Games MOC|games]] that I play.
 
-[[Nexcloud Server]]
+[[Nexcloud]]
 - I really want to replace all cloud hosting with my own hosting
+- Would be fantastic if it could house my PDF library and be easily accessible when I log in, from any device
 
-[[xrandr]]
+[xrandr](https://wiki.archlinux.org/title/xrandr)
 - I want to have a hotkey or alias that I can run in the terminal to swap between half resolution and full resolution
 
-[[Backup Solution]]
+Backup Solution
 - Need some way to save my configurations for `oh-my-zsh`, a guide how to setup my desktop env w/widgets and what not, etc.
 
