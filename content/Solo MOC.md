@@ -1,5 +1,6 @@
 ---
 title: Coastlee's Solo MOC
+tag: moc
 ---
 
 up:: [[index|Home]]
@@ -8,25 +9,25 @@ up:: [[index|Home]]
 
 This **map of concept** will help me get anywhere when referencing my solo efforts.
 
-[[Wolves of God]]
-[[Dragonsmoke Archipelago]]
-[[The Colony]]
-[[Ars Magica]]
-[[Scarlet Heroes]]
-[[Dungeon Crawl Classics]]
+- [[Wolves of God]]
+- [[Dragonsmoke Archipelago]]
+- [[The Colony]]
+- [[Ars Magicka]]
+- [[Scarlet Heroes]]
+- [[Dungeon Crawl Classics]]
 
 ## Characters
 
-[[Osric of Steyning]]
-[[Ioan Bennet]]
-[[Agoston Szellem]]
-[[The Nightbird]]
-[[Whitefields]]
-[[Galoon & Aluua]]
-[[Lo'teale Casulo]]
-[[Ortuyg]]
-[[Faefiel]]
-[[Edea Lurel]]
-[[Old Stone]]
-[[Lanthorn]]
-[[Coastlee & Bruce]]
+- [[Osric of Steyning]]
+- [[Ioan Bennet]]
+- [[Agoston Szellem]]
+- [[The Nightbird]]
+- [[Whitefields]]
+- [[Galoon & Aluua]]
+- [[Lo'teale Casulo]]
+- [[Ortuyg]]
+- [[Faefiel]]
+- [[Edea Lurel]]
+- [[Old Stone]]
+- [[Lanthorn]]
+- [[Coastlee & Bruce]]
