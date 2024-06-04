@@ -3,7 +3,7 @@ title: GM MOC
 tag: moc
 ---
 
-up:: [[index|Home]]
+up:: [[Tabletop MOC]]
 
 
 # GM MOC
@@ -23,8 +23,8 @@ up:: [[index|Home]]
 
 ## Administrative Activities
 
-- [[The Colony]]
-- [[Dragonsmoke Archipelago]]
+- [[The Colony|The Colony Space]]
+- [[Dragonsmoke Archipelago|Dragonsmoke Archipelago Space]]
 
 ## Systems
 

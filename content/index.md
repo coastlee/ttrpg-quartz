@@ -10,12 +10,11 @@ title: Coastlee's Home
 
 [[Efforts]]
 
-The following are the main TTRPG maps:
+# Into my Tabletop RPG Hobby
 
-- [[Solo MOC]]
-- [[GM MOC]]
-- [[Playing MOC]]
-- [[Systems MOC]]
+- [[TTRPG MOC]]
+
+## Discord Games
 
 On discord, I am actively playing on the following servers:
 
@@ -27,5 +26,13 @@ On discord, I am actively playing on the following servers:
 - [[Atlas Exodus]]
 - [[Atlas]]
 - [[Mythic Game Master Emulator]]
+
+## Other Hobbies
+
+- [[Books MOC]]
+- [[Games MOC]]
+- [[Linux MOC]]
+
+---
 
 [Quartz Documentation](https://quartz.jzhao.xyz) see also [[Quartz]]

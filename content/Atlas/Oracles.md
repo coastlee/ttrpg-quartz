@@ -2,7 +2,7 @@
 tag: map
 ---
 
-up:: [[iTTRPG Tools]]
+up:: [[TTRPG Tools]]
 
 # Oracles
 
