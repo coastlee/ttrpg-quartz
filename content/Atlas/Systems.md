@@ -3,7 +3,7 @@ title: Systems
 tag: moc
 ---
 
-up:: [[Tabletop MOC]]
+up:: [[TTRPG MOC]]
 
 These are the game systems I am currently playing in in some capacity or form:
 

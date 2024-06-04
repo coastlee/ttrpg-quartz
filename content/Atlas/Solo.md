@@ -3,7 +3,7 @@ title: Solo MOC
 tag: moc
 ---
 
-up:: [[Tabletop MOC]]
+up:: [[TTRPG MOC]]
 
 # Solo MOC
 

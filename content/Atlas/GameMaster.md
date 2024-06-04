@@ -3,7 +3,7 @@ title: GM MOC
 tag: moc
 ---
 
-up:: [[Tabletop MOC]]
+up:: [[TTRPG MOC]]
 
 
 # GM MOC

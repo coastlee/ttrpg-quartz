@@ -1,5 +1,5 @@
 ---
-title: Tabletop MOC
+title: TTRPG MOC
 tag: moc
 ---
 
