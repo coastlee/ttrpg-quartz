@@ -8,7 +8,7 @@ I've gotten the application to launch with the java version on EOS, but there's 
 
 I'm loving the customizability. Gaming has become a non-issue for the [[Games MOC|games]] that I play.
 
-[[Nexcloud]]
+[[Nextcloud]]
 - I really want to replace all cloud hosting with my own hosting
 - Would be fantastic if it could house my PDF library and be easily accessible when I log in, from any device
 
