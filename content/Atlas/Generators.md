@@ -3,7 +3,7 @@ tag: map
 title: Generators (TTRPG)
 ---
 
-up:: [[index|Home]]
+up:: [[TTRPG Tools]]
 
 This is where I can find all of my collections for various websites and other resources for use in generating random things off of magnificent tables!
 
@@ -25,14 +25,23 @@ This is where I can find all of my collections for various websites and other re
     - NPC Descriptions
 10. Book of Random Tables 5
     - Dragon / Country / Gang / Pirate Ship / Ship / Troll
+    - Key Backstory Moments \ NPC Developments \ NPC Quirks \ Phobias
+11. City Names PDF
+    - City Descriptions PDF
+12. The Perilous Wilds
 
 # Weather Generators
 
 1. [Donjon](https://donjon.bin.sh/d20/weather/)
+2. Hex Flower
 
 # City Generators
 
 1. [watabou.itch.io](https://watabou.itch.io/medieval-fantasy-city-generator)
+2. Ex Novo
+3. Location Crafter
+4. Easy Settlements PDF
+5. Lands, Lords & Ladies
 
 ## Tavern Generators
 
@@ -107,6 +116,13 @@ This is where I can find all of my collections for various websites and other re
     - Phobias
     - Resurrection Side Effects
     - Town Happenings
+7. Urban Dressing 1 & 2
+8. Wilderness Dressing
+9. Dungeon Dressing
+10. Table of Plot Twists PDF
+11. The Book of Worlds PDF
+12. Weird PDF
+13. Universal NPC Emulator PDF
 
 # Adventure Idea Generators
 
@@ -118,6 +134,10 @@ This is where I can find all of my collections for various websites and other re
     - Thieves Guild Quests
 4. Book of Random Tables 5
     - Town Happenings
+5. The Adventure Crafter
+6. Tome of Adventure Design PDF
+7. Solo Adventurers Toolbox PDF
+8. Solo Adventurers Toolbox, Part 2 PDF
 
 # Encounters & Events Generators
 
@@ -138,3 +158,8 @@ This is where I can find all of my collections for various websites and other re
     - Talking Inanimate Objects
     - Cursed Items
     - Magic Items
+
+# Terrain Generators
+
+1. Hex Flower
+2. Sandbox Generator
