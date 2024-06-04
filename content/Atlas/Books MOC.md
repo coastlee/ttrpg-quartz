@@ -9,7 +9,7 @@ This will reference books I've read, link to **Goodreads**, my thoughts and note
 
 # Books In Progress
 
-1. [[Range: Why Generalists Triumph in a Specialized World]]
+1. [[Range\: Why Generalists Triumph in a Specialized World]]
 2. [[Tess and the Emerald Sea]]
 3. [[The Adventure Crafter]]
 
