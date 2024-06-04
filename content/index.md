@@ -32,7 +32,7 @@ On discord, I am actively playing on the following servers:
 - [[Books MOC]]
 - [[Games MOC]]
 - [[Linux MOC]]
-- [[House Projects MOC]]
+- [[Home Projects MOC]]
 
 ---
 
