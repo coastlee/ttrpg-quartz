@@ -21,7 +21,7 @@ This **map of concept** will help me get anywhere when referencing my solo effor
 - [[Osric of Steyning]]
 - [[Ioan Bennet]]
 - [[Agoston Szellem]]
-- [[The Nightbird]]
+- [[The Nightbird: Chestirad Nokny]]
 - [[Whitefields]]
 - [[Galoon & Aluua]]
 - [[Lo'teale Casulo]]
