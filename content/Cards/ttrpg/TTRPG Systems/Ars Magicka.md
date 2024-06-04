@@ -1,6 +1,6 @@
 ---
 title: Ars Magicka
-tag: system/ars-magicka
+tag: ttrpg/system
 ---
 
 up:: [[Systems MOC]]
