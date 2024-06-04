@@ -3,7 +3,7 @@ title: Ars Magicka
 tag: ttrpg/system
 ---
 
-up:: [[Systems MOC]]
+up:: [[Systems]]
 
 # Ars Magicka
 

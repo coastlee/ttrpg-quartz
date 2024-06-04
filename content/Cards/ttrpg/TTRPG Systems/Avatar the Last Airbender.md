@@ -2,7 +2,7 @@
 tag: ttrpg/system
 ---
 
-up:: [[Systems MOC]]
+up:: [[Systems]]
 
 # Avatar the Last Airbender
 

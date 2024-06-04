@@ -2,7 +2,7 @@
 tag: ttrpg/system
 ---
 
-up:: [[Systems MOC]]
+up:: [[Systems]]
 
 # Dungeons and Dragons, 5th Edition
 

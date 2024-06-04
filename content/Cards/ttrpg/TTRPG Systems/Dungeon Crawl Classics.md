@@ -3,7 +3,7 @@ tag: ttrpg/system
 alias: DCC
 ---
 
-up:: [[Systems MOC]]
+up:: [[Systems]]
 
 # Dungeon Crawl Classics
 

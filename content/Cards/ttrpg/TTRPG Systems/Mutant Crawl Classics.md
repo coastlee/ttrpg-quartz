@@ -3,7 +3,7 @@ tag: ttrpg/system
 alias: MCC
 ---
 
-up:: [[Systems MOC]]
+up:: [[Systems]]
 
 # Mutant Crawl Classics
 
