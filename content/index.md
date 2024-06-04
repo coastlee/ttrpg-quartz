@@ -1,5 +1,5 @@
 ---
-title: Coastlee's TTRPG Home
+title: Coastlee's Home
 ---
 
 The following are the main maps:
