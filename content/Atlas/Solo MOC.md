@@ -1,5 +1,5 @@
 ---
-title: Coastlee's Solo MOC
+title: Solo MOC
 tag: moc
 ---
 

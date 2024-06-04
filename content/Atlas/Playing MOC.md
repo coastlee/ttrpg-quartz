@@ -1,5 +1,5 @@
 ---
-title: Coastlee's Playing MOC
+title: Playing MOC
 tag: moc
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Coastlee's GM MOC
+title: GM MOC
 tag: moc
 ---
 
@@ -18,6 +18,8 @@ up:: [[index|Home]]
 - [[I am a Demigod]]
 - [[Quest Blitz]]
 - [[Star Wars]]
+- [[Live Dungeon Crawl Classics]]
+- [[Live Godbound]]
 
 ## Administrative Activities
 
