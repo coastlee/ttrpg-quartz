@@ -63,11 +63,9 @@ In addition, roll twice on the CR 2 individual treasure table (!treasure 2 twice
 
 ## Rewards
 
-**Experience.** 405 each
-**Gold.** 1pp, 24gp, 2ep, 8sp, 20cp each
-**Gems.**
-> 
-
-**Downtime Days.** 5 each
-**Next Quest Hoard Chance.** Next quest you have a 50% chance of a hoard at the end of the session
-**Roleplay Progress.** [Discord](https://discord.com/channels/733841578174447717/1082110342613717042/1082452631131271308)
+- **Experience.** 405 each
+- **Gold.** 1pp, 24gp, 2ep, 8sp, 20cp each
+- **Gems.**
+- **Downtime Days.** 5 each
+- **Next Quest Hoard Chance.** Next quest you have a 50% chance of a hoard at the end of the session
+- **Roleplay Progress.** [Discord](https://discord.com/channels/733841578174447717/1082110342613717042/1082452631131271308)

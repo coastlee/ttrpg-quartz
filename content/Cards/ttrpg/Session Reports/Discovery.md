@@ -33,11 +33,10 @@ previous: None
 
 ## Rewards
 
-**Experience.** 176 each 
-**Gold.** 1pp 13gp 1ep 13sp 9cp each 
-**Gems.**
-> 1x Banded Agate (xg) 1x Hematite (xg)
-
-**Downtime Days.** 5 each 
-**Next Quest Hoard Chance.** 50%, please refer the next validator to this post 
-**Roleplay Progress.** 1 character qualifies for the first portion
+- **Experience.** 176 each 
+- **Gold.** 1pp 13gp 1ep 13sp 9cp each 
+- **Gems.**
+    - 1x Banded Agate (xg) 1x Hematite (xg)
+- **Downtime Days.** 5 each 
+- **Next Quest Hoard Chance.** 50%, please refer the next validator to this post 
+- **Roleplay Progress.** 1 character qualifies for the first portion

@@ -63,12 +63,11 @@ next: "[[Coastlee and Bruce Session 7]]"
 
 ## Rewards
 
-**Experience.** 1,850
-**Gold.** 16pp 18gp 4ep 12sp 32cp
-**Gems.**
-> 2x 10gp
-
-**Downtime Days.** 5 each
-**Next Quest Hoard Chance.** 50%
-**Roleplay Progress.** 
-- [/] [Bruce Ankgar, T1.2](https://discord.com/channels/733841578174447717/1131273739754016889/1131346807402791015)
+- **Experience.** 1,850
+- **Gold.** 16pp 18gp 4ep 12sp 32cp
+- **Gems.**
+    - 2x 10gp
+- **Downtime Days.** 5 each
+- **Next Quest Hoard Chance.** 50%
+- **Roleplay Progress.** 
+    - [/] [Bruce Ankgar, T1.2](https://discord.com/channels/733841578174447717/1131273739754016889/1131346807402791015)

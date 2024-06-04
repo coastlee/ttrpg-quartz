@@ -35,14 +35,13 @@ next: "[[Exploration Continued]]"
 
 ## Rewards
 
-**Experience.** 407 each
-**Gold.** 1pp, 35gp, 357sp, 1213cp each
-**Gems.**
-> 2x Azurite 
-> 1x Eye Agate 
-> 1x Hematite 
-> 1x Malachite
-
-**Downtime Days.** 5 each
-**Next Quest Hoard Chance.** Your next session hoard chance is 25%
-**Roleplay Progress.** And this counts for your second hard quest of the armament of legacy series.
+- **Experience.** 407 each
+- **Gold.** 1pp, 35gp, 357sp, 1213cp each
+- **Gems.**
+    - 2x Azurite 
+    - 1x Eye Agate 
+    - 1x Hematite 
+    - 1x Malachite
+- **Downtime Days.** 5 each
+- **Next Quest Hoard Chance.** Your next session hoard chance is 25%
+- **Roleplay Progress.** And this counts for your second hard quest of the armament of legacy series.

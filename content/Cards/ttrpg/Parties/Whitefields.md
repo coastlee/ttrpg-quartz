@@ -1,4 +1,4 @@
-[[Ginette Whitefield]]
-[[Marcos Whitefield]]
-[[Thurman Whitefield]]
-[[Valrin Whitefield]]
+- [[Ginette Whitefield]]
+- [[Marcos Whitefield]]
+- [[Thurman Whitefield]]
+- [[Valrin Whitefield]]

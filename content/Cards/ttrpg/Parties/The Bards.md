@@ -1,4 +1,4 @@
-[[Journey]]
-[[Mockery]]
-[[Piety]]
-[[Orakh]]
+- [[Journey]]
+- [[Mockery]]
+- [[Piety]]
+- [[Orakh]]

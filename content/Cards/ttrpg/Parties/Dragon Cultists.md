@@ -1,4 +1,4 @@
-[[Ortuyg]]
-[[Elnetis]]
-[[Drik]]
-[[Draushum Mox]]
+- [[Ortuyg]]
+- [[Elnetis]]
+- [[Drik]]
+- [[Draushum Mox]]

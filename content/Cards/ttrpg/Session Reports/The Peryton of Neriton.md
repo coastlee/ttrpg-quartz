@@ -66,12 +66,12 @@ next:: [[Rumors in Neriton]]
 
 ## Rewards
 
-**Experience.** 906
-**Gold.** 8,126cp
-**Gems.**
-> 
-
-**Downtime Days.** 5 each
-**Next Quest Hoard Chance.** the highest chance for the group is 50% (Bruce and Coastlee). Since the group splits the Treasure hoard we'll roll once for all of you.
-**Roleplay Progress.** [Bruce Ankgar, T1.1](https://discord.com/channels/733841578174447717/1083502080804802620/1087830707260371004)
-**Additional Rewards.** 1 Upper-class Contact
+- **Experience.** 906
+- **Gold.** 8,126cp
+- **Gems.**
+- **Downtime Days.** 5 each
+- **Next Quest Hoard Chance.** the highest chance for the group is 50% (Bruce and Coastlee). Since the group splits the Treasure hoard we'll roll once for all of you.
+- **Roleplay Progress.** 
+    - [Bruce Ankgar, T1.1](https://discord.com/channels/733841578174447717/1083502080804802620/1087830707260371004)
+- **Additional Rewards.** 
+    - 1 Upper-class Contact
