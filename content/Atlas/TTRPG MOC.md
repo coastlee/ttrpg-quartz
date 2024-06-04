@@ -6,7 +6,7 @@ tag: moc
 up:: [[index|Home]]
 
 - [[Solo]]
-- [[GM MOC]]
-- [[Playing MOC]]
-- [[Systems MOC]]
+- [[GameMaster]]
+- [[Player]]
+- [[Systems]]
 - [[TTRPG Tools]]

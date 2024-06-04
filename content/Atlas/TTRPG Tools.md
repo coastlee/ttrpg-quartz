@@ -2,7 +2,7 @@
 tag: map
 ---
 
-up:: [[index|Home]]
+up:: [[Tabletop MOC]]
 
 Might need to put in a TTRPG MOC.
 

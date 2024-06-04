@@ -3,7 +3,7 @@ title: Solo MOC
 tag: moc
 ---
 
-up:: [[index|Home]]
+up:: [[Tabletop MOC]]
 
 # Solo MOC
 
