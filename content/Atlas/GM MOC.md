@@ -23,8 +23,8 @@ up:: [[index|Home]]
 
 ## Administrative Activities
 
-- [[The Colony MOC]]
-- [[Dragonsmoke Archipelago MOC]]
+- [[The Colony]]
+- [[Dragonsmoke Archipelago]]
 
 ## Systems
 
