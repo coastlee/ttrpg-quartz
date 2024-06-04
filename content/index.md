@@ -2,17 +2,25 @@
 title: Coastlee's Home
 ---
 
-The following are the main maps:
+[[Inbox]]
+
+[[Meta PKM]]
+
+# Current Efforts
+
+[[Efforts]]
+
+The following are the main TTRPG maps:
 
 - [[Solo MOC]]
 - [[GM MOC]]
 - [[Playing MOC]]
 - [[Systems MOC]]
 
-On discord, I am actively playing on the following:
+On discord, I am actively playing on the following servers:
 
-- [[Dragonsmoke Archipelago MOC]]
-- [[The Colony MOC]]
+- [[Dragonsmoke Archipelago]]
+- [[The Colony]]
 - [[JK RPGs]]
 - [[Crimson Labyrinth]]
 - [[Ultramarine Archipelago]]
@@ -20,4 +28,4 @@ On discord, I am actively playing on the following:
 - [[Atlas]]
 - [[Mythic Game Master Emulator]]
 
-[Quartz Documentation](https://quartz.jzhao.xyz)
+[Quartz Documentation](https://quartz.jzhao.xyz) see also [[Quartz]]
