@@ -10,9 +10,9 @@ up:: [[Ars Magicka]]
 ## Character Creation
 
 1. Pick a Character Concept
-  - Fire Wizard
+    - Fire Wizard
 2. Pick a House
-  - [[Merinita|House Merinita]]
+    - [[Merinita|House Merinita]]
 3. Pick Virtues and Flaws
-  - Up to ten points of Flaws & same number of points in Virtues
+    - Up to ten points of Flaws & same number of points in Virtues
 

@@ -1,5 +1,8 @@
+---
+tag: on/readme
+---
+
 up:: [[Meta PKM]]
-tags:: #on/readme 
 
 # About Atlas
 An Atlas is a "map of maps". 
