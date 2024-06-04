@@ -26,7 +26,7 @@ This **map of concept** will help me get anywhere when referencing my solo effor
 - [[Galoon & Aluua]]
 - [[Lo'teale Casulo]]
 - [[Ortuyg]]
-- [[Faefiel]]
+- [[Faefiel Amafele]]
 - [[Edea Lurel]]
 - [[Old Stone]]
 - [[Lanthorn]]
