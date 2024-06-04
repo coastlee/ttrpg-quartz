@@ -17,7 +17,6 @@ up:: [[TTRPG MOC]]
 - [[The Hermit's Villa]]
 - [[I am a Demigod]]
 - [[Quest Blitz]]
-- [[Star Wars]]
 - [[Live Dungeon Crawl Classics]]
 - [[Live Godbound]]
 
@@ -29,5 +28,4 @@ up:: [[TTRPG MOC]]
 ## Systems
 
 - [[Godbound]]
-- [[Star Wars d6]]
 - [[D&D 5e]]
