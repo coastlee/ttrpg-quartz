@@ -145,7 +145,7 @@ This is where I can find all of my collections for various websites and other re
     - Forest / Mountain / Swamp / Seafaring
     - Catastrophes
 2. Book of Random Tables 3
-    - Desert / Forest / Road
+    - Desert / Forest **Locations** / Road
     - Woodland Animals
 3. Book of Random Tables 4
     - Underground / Jungle / Inn / Sea-related
