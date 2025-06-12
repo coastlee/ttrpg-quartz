@@ -1,0 +1,1 @@
+Older brother and respected [[Orion Star Navy (OSN)|OSN]] Navy officer; a source of admiration and eventual tension as Dane struggles to understand [[Ten Jay|Ten's]] departure from the Navy.

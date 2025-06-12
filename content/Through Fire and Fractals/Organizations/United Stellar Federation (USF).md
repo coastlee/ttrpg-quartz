@@ -1,0 +1,1 @@
+A coalition of allied planets and systems spanning the [[Orion Arm]] of the galaxy.

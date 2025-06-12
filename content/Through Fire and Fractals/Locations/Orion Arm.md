@@ -1,0 +1,1 @@
+A span of the galaxy.

@@ -1,0 +1,1 @@
+An asteroid world.
