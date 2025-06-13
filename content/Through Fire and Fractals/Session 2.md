@@ -4,7 +4,7 @@ date: 2025-06-12
 tags:
   - session/woin
   - duo/seth
-draft: "false"
+draft: false
 ---
 
 We escaped with [[Astra Veyl]]'s ship. She saw our faces, whether or not she can use those later is to be determined.

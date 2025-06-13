@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals - Vanguard Expanse
-draft: 
+draft: false
 tags:
   - through-fire-and-fractalslocation/sector
 date: 2025-06-12

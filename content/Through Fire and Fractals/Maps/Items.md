@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals - Items
-draft: 
+draft: false
 tags:
   - through-fire-and-fractals
   - map

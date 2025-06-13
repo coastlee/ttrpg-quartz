@@ -4,7 +4,7 @@ date: 2025-06-12
 tags:
   - player-character/woin
   - player/josh
-draft: "false"
+draft: false
 ---
 
 Part of the [[Skyfire Initiative]] experiment and dubbed **Subject 42-B**, Torrell was "recruited" as an infant when his family’s transport ship was intercepted near the volcanic world [[Kragos-7]]. Official records list him as deceased due to an "accident," but in reality, he was abducted by [[Skyfire Initiative|Skyfire operatives]].

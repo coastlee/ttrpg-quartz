@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals - Kragos-7
-draft: 
+draft: false
 tags:
   - through-fire-and-fractals/location/planet
 date: 2025-06-12

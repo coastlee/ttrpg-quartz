@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals
-draft: 
+draft: false
 tags:
   - campaign
   - through-fire-and-fractals

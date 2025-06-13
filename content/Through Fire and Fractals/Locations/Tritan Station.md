@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals - Tritan Station
-draft: 
+draft: false
 tags:
   - through-fire-and-fractals/location/station
 date: 2025-06-12

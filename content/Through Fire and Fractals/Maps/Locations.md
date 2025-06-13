@@ -4,7 +4,7 @@ date: 2025-06-12
 tags:
   - map
   - through-fire-and-fractals
-draft: "false"
+draft: false
 up: "[[Through Fire and Fractals]]"
 ---
 

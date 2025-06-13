@@ -1,6 +1,6 @@
 ---
 title: Through Fire and Fractals - The Lens of Teyxar
-draft: 
+draft: false
 tags:
   - through-fire-and-fractals/item
 date: 2025-06-12

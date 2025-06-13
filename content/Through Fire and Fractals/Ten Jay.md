@@ -4,7 +4,7 @@ date: 2025-06-12
 tags:
   - player-character/woin
   - player/seth
-draft: "false"
+draft: false
 ---
 
 **Name:** Ten Jay

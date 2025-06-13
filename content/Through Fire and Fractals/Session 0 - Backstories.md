@@ -4,7 +4,7 @@ date: 2024-12-07
 tags:
   - session/woin
   - duo/seth
-draft: "false"
+draft: false
 ---
 
 **QUESTIONS**
