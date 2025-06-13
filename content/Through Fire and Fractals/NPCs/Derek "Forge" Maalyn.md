@@ -1,3 +1,12 @@
+---
+title: Through Fire and Fractals - Derek "Forge" Maalyn
+draft: false
+tags:
+  - through-fire-and-fractals/npc
+date: 2025-06-12
+up: "[[NPCs]]"
+---
+
 Subject survivor of [[The Skyfire Initiative]] and peer to [[Torrell Tharock]] and [[Kessara Rynn ("Blades")]].
 - **Role:** Heavy support and demolitions expert.
 - **Enhancements:**

@@ -1,4 +1,13 @@
 ---
+title: Through Fire and Fractals - The Lens of Teyxar
+draft: 
+tags:
+  - through-fire-and-fractals/item
+date: 2025-06-12
+up: "[[Items]]"
+---
+
+---
 tags:
   - system/woin
   - woin/campaign/through-fire-and-fractals

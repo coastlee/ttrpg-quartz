@@ -1,3 +1,12 @@
+---
+title: Through Fire and Fractals - Operative Cassian Drenn
+draft: false
+tags:
+  - through-fire-and-fractals/npc
+date: 2025-06-12
+up: "[[NPCs]]"
+---
+
 [[Ten Jay|Ten's]] charismatic and morally ambiguous handler; spared by Ten during a critical mission and now living under the radar. Their relationship remains complicated.
 
 **Role:** Former Naval Intelligence Operative 

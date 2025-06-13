@@ -1,4 +1,11 @@
-07 December 2024
+---
+title: "TF&F - Session 0 - Character Creation"
+date: 2024-12-07
+tags:
+  - session/woin
+  - duo/seth
+draft: "false"
+---
 
 **QUESTIONS**
 

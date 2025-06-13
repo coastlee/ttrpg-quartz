@@ -1,3 +1,12 @@
+---
+title: "Character - Ten Jay"
+date: 2025-06-12
+tags:
+  - player-character/woin
+  - player/seth
+draft: "false"
+---
+
 **Name:** Ten Jay
 **Age:** 25
 **Role:** Former Space Navy Officer, Intelligence Operative, and Sniper

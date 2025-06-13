@@ -1,3 +1,12 @@
+---
+title: Through Fire and Fractals - Astra Veyl
+draft: false
+tags:
+  - through-fire-and-fractals/npc/antagonist
+date: 2025-06-12
+up: "[[NPCs]]"
+---
+
 ### Why Is the Skiff There?
 
 The skiff belongs to a **smuggler** named **Astra Veyl**, a cunning Felan (feline-like humanoid) with a reputation for discreetly transporting rare goods between volcanic worlds and more stable systems. She’s been attending the auction to secure illicit tech that wasn’t officially on the auction block, using her ship as a quick getaway vehicle.

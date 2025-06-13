@@ -1,3 +1,12 @@
+---
+title: Through Fire and Fractals - Clyne Raddick
+draft: false
+tags:
+  - through-fire-and-fractals/npc
+date: 2025-06-12
+up: "[[NPCs]]"
+---
+
 ### NPC Name: **Clyne Raddick**
 
 - **Description:**  

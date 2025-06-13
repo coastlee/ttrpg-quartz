@@ -1,6 +1,12 @@
 ---
-tag:
+title: Through Fire and Fractals - Kragos-7
+draft: 
+tags:
+  - through-fire-and-fractals/location/planet
+date: 2025-06-12
+up: "[[Locations]]"
 ---
+
 Tags
 
 - Seismic Instability
