@@ -6,7 +6,7 @@ tags:
   - duo/seth
 draft: false
 ---
-
+**Up.** [[Sessions]]
 ## Scene 1: Flight to Obsidian Reach
 
 **Chaos Factor.** 4
@@ -94,8 +94,18 @@ MYTHIC QUESTION: Do we know any grungy salvage or ship yards in the area?
 
 Land in [[Varnis "Scrapjaw" Dex]]'s scrapyard. We let him know that it's Ten, he comms back and asks what we want and tells us where to park. Why are you here in the middle of the night?
 
-"This is Torrell; we are "
+We tell him that we've the got skiff to sale for pennies on the dollar. Ten reminds him of a favor he owes. The only caveat is that he wants nothing to do with where we came from, so he has to act quick to get it dissembled for parts. We rolled a 2d6 persuade by Ten, marked the TN down to 4 (from 7), and got a result of 7. Varnis agrees to help us out.
+
+We're assuming he can get $50,000 and we're asking him to pay $5,000. Going for $10k, going to a charisma roll. TN 8 on 2d6.
+
+Barter Roll (2d6): 8
+
+Transaction happens, he wires us the funds ($5k each).
+
+> MYTHIC QUESTION: Does anyone see, spot, or otherwise detect the presence of [[Astra Veyl]]'s ship approaching [[Obsidian Reach]]? (CF 4, Unlikely)
+- 48 - No
 
 
-Touching down on [[Obsidian Reach]]
+## Scene 2: Find Passage to [[Zephrax-9]]
+
 
