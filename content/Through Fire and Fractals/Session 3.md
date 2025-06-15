@@ -36,5 +36,25 @@ Our characters chatted about [[Torrell Tharock]]'s past and he basically summari
 
 I need to look into building a ChatGPT room with multiple people!
 
+## Why did Ten join Torrell?
+
+**Ten Jay pauses at the edge of the dimly lit ship corridor, the hum of the stolen vessel’s drive core pulsing in the background. He turns to face Torrell, eyes steady, rifle slung across his back.
+
+**"You’re not the first to chase the Lens, Torrell. But you might be the first one to actually hold it and still be breathing."**
+
+He steps a little closer, calm but intense.
+
+**"I’ve been tracking that artifact for years—intel briefings, half-burned scrolls, encrypted data caches. The Navy classified it as a myth. Intelligence called it a distraction. I didn’t agree with either."**
+
+He lets that settle, then gives a small, almost amused shrug.
+
+**"Then I see you swipe it in front of half the Syndicate and three corp delegates. And not only that—you survive. So I had a choice: either take you down… or find out if you’re smart enough to use it."**
+
+He leans against the bulkhead, arms crossed now.
+
+**"You’re holding the key to something that could change how we move through the stars. That kind of tech doesn’t belong in a vault or behind a Syndicate laser grid. It belongs with someone who understands what it means—and what it can do."**
+
+**"I followed you because I’ve been chasing the Lens longer than you’ve been running from it. And because… maybe we both want the same thing."**
+
 Touching down on [[Obsidian Reach]]
 
