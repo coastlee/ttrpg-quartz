@@ -56,5 +56,31 @@ He leans against the bulkhead, arms crossed now.
 
 **"I followed you because I’ve been chasing the Lens longer than you’ve been running from it. And because… maybe we both want the same thing."**
 
+**Torrell stands in the cockpit doorway, silhouetted by the flicker of sublight stars. His expression is unreadable—calculating, like he’s assembling a puzzle he doesn’t yet know all the pieces to.**
+
+**“So that’s it,”** he says after a long pause. **“You followed me because you think I know what to do with this thing?”**
+
+He holds up the Lens of Teyxar between two gloved fingers, examining it like it’s a puzzle box.
+
+**“News flash: I don’t. Didn’t even know what it was until everyone started screaming for my head.”**  
+**“I stole it to create a distraction. Turns out I stole the galaxy’s most wanted paperweight.”**
+
+His eyes narrow slightly as he studies Ten Jay, not with suspicion exactly, but with the cold-eyed habit of someone trained to assess threats—and assets.
+
+**“You… you didn’t flinch when the Syndicate turned on me. You had options, clean exits. But you stuck around.”**
+
+He tucks the Lens back into a sealed compartment, his voice shifting from wary to strategic.
+
+**“Alright. You’ve got history with the Lens. I’ve got it in my hand and a death squad on my back. So here’s the play: you help me figure out what this thing really is and how we use it before someone melts us for it.”**
+
+He steps closer now, the tension easing just a little.
+
+**“But I’m not looking for a fanboy or a bodyguard. I want a partner who knows how to stay alive, who won’t freeze when things go sideways. You think you can be that?”**
+
+Beat.
+
+**“Because if not, there’s still time to toss you out the airlock before we hit driftspace.”**
+
+
 Touching down on [[Obsidian Reach]]
 
