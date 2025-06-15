@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-We escaped with [[Astra Veyl]]'s ship. She saw our faces, whether or not she can use those later is to be determined.
+We escaped [[Ashen Hollow]] with [[Astra Veyl]]'s ship. She saw our faces, whether or not she can use those later is to be determined.
 
 We encountered no aircraft resistance as we fled because of the remote and poor location of the auction.
 

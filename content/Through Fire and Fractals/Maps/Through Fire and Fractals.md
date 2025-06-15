@@ -20,8 +20,8 @@ up: "[[TTRPG Home|00]]"
 
 ## [[Sessions]]
 
-- [[Session 1]]
-- [[Session 2]]
+- [[Session 1 - Thief and Flight]]
+- [[Session 2 - The Escape]]
 
 ## Characters
 

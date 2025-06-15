@@ -6,5 +6,6 @@ tags:
 date: 2025-06-12
 up: "[[Locations]]"
 ---
+**Up.** [[Locations]]
 
 A span of the galaxy.
