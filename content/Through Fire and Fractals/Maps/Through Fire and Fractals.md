@@ -9,6 +9,9 @@ tags:
 date: 2025-06-12
 up: "[[TTRPG Home|00]]"
 ---
+## Shared Notes
+
+[Google Doc](https://docs.google.com/document/d/1FyOBQ69z2O7GEiXaptWRKJhe3lUw7NTP29UUE7kzh0k)
 
 ## Lore
 
@@ -20,8 +23,10 @@ up: "[[TTRPG Home|00]]"
 
 ## [[Sessions]]
 
+- [[Session 0 - Backstories]]
 - [[Session 1 - Thief and Flight]]
 - [[Session 2 - The Escape]]
+- [[Session 3]]
 
 ## Characters
 
