@@ -81,6 +81,19 @@ Beat.
 
 **“Because if not, there’s still time to toss you out the airlock before we hit driftspace.”**
 
+## Decision Where to Land
+
+Night time.
+
+**[[Zephrax-9]]** - [[Ten Jay]] has a contact lined up here. We rolled on the meaning tables and got *coolly festive* and we decided had something to do with a festival that hinted at some more of the myths and legends behind the [[The Lens of Teyxar]]. So Ten shares that this job has something to do with the Lens.
+
+We talked about selling the ship for parts to create a mystery surrounding our escape. Where did the ship? No ones knows in an ideal world.
+
+MYTHIC QUESTION: Do we know any grungy salvage or ship yards in the area?
+- CF 4 on Likely: 21 (YES)
+
+
+
 
 Touching down on [[Obsidian Reach]]
 

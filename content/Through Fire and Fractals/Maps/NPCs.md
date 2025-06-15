@@ -25,6 +25,7 @@ up: "[[Through Fire and Fractals]]"
 	- [[Mila Rezra]]
 	- [[Operative Cassian Drenn]]
 	- [[Sergeant Kira Vos]]
+	- [[Varnis "Scrapjaw" Dex]]
 
 ### Organizations
 
