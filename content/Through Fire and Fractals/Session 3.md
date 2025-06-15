@@ -92,7 +92,9 @@ We talked about selling the ship for parts to create a mystery surrounding our e
 MYTHIC QUESTION: Do we know any grungy salvage or ship yards in the area?
 - CF 4 on Likely: 21 (YES)
 
+Land in [[Varnis "Scrapjaw" Dex]]'s scrapyard. We let him know that it's Ten, he comms back and asks what we want and tells us where to park. Why are you here in the middle of the night?
 
+"This is Torrell; we are "
 
 
 Touching down on [[Obsidian Reach]]
