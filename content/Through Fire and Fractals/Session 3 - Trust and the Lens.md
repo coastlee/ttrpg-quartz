@@ -1,5 +1,5 @@
 ---
-title: "TF&F - Session 2"
+title: TF&F - Session 3 - Trust and the Lens
 date: 2025-06-12
 tags:
   - session/woin

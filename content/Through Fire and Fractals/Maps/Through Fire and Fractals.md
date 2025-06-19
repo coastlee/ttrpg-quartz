@@ -26,7 +26,7 @@ up: "[[TTRPG Home|00]]"
 - [[Session 0 - Backstories]]
 - [[Session 1 - Thief and Flight]]
 - [[Session 2 - The Escape]]
-- [[Session 3]]
+- [[Session 3 - Trust and the Lens]]
 
 ## Characters
 
