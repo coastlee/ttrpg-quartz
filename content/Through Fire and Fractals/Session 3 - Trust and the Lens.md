@@ -10,7 +10,7 @@ draft: false
 **Previous.** [[Session 2 - The Escape]]
 **Next.** [[Session 4]]
 
-# 📘 Scene 1: Flight to [[Obsidian Reach]]
+# 📘 Scene 3: Flight to [[Obsidian Reach]]
 
 **Chaos Factor:** 4  
 **Setting:** Aboard [[Astra Veyl]]’s ship, en route from [[Ashen Hollow]] to [[Obsidian Reach]].
@@ -138,6 +138,6 @@ Their negotiations succeed, and the characters earn some fast credits while keep
 
 ---
 
-## Scene 2: Find Passage to [[Zephrax-9]]
+## Scene 4: Find Passage to [[Zephrax-9]]
 
 
