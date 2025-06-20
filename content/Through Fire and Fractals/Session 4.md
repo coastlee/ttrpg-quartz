@@ -1,14 +1,13 @@
 ---
 title: TF&F - Session 3 - Trust and the Lens
-date: 2025-06-14
+date: 2025-06-19
 tags:
   - session/woin
   - duo/seth
 draft: false
 ---
 **Up.** [[Sessions]]
-**Previous.** [[Session 2 - The Escape]]
-**Next.** [[Session 4]]
+**Previous.** [[Session 3 - Trust and the Lens]]
 
 # 📘 Scene 1: Flight to [[Obsidian Reach]]
 

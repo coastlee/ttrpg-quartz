@@ -1,11 +1,15 @@
 ---
-title: "TF&F - Session 1"
+title: TF&F - Session 1
 date: 2025-06-12
 tags:
   - session/woin
   - duo/seth
 draft: false
 ---
+**Up.** [[Sessions]]
+**Previous.** [[Session 0 - Backstories]]
+**Next.** [[Session 2 - The Escape]]
+
 [[Torrell Tharock]] was running from [[Dane Jay]] and his crew of mercenaries or they might even be a military group. Torrell was running through an auction. He spotted something shiny to make a scene and scooped it up to cause chaos and commotion to slow down and confuse Dane's group.
 
 [[Ten Jay]] spotted [[Torrell Tharock]] stealing the item and had an inkling of an idea of what that item ([[The Lens of Teyxar]]) did! So he decided to join [[Torrell Tharock]] in his flight.

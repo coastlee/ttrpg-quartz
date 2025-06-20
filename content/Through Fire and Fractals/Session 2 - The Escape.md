@@ -6,6 +6,10 @@ tags:
   - duo/seth
 draft: false
 ---
+**Up.** [[Sessions]]
+**Previous.** [[Session 1 - Thief and Flight]]
+**Next.** [[Session 3 - Trust and the Lens]]
+
 
 We escaped [[Ashen Hollow]] with [[Astra Veyl]]'s ship. She saw our faces, whether or not she can use those later is to be determined.
 

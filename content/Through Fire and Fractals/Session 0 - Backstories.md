@@ -6,6 +6,8 @@ tags:
   - duo/seth
 draft: false
 ---
+**Up.** [[Sessions]]
+**Next.** [[Session 1 - Thief and Flight]]
 
 **QUESTIONS**
 
