@@ -5,9 +5,11 @@ tags:
   - player-character/woin
   - player/josh
 draft: false
-character-sheet-url: https://docs.google.com/spreadsheets/d/1j-FDcyWxzFO1Fl6SMIeKvg8qcPawxtl8dTuf47RHbPQ/edit?usp=sharing
 ---
 
+**Up.** [[Through Fire and Fractals]]
+
+**[Character Sheet](https://docs.google.com/spreadsheets/d/1j-FDcyWxzFO1Fl6SMIeKvg8qcPawxtl8dTuf47RHbPQ/edit?usp=sharing).**
 
 Part of the [[Skyfire Initiative]] experiment and dubbed **Subject 42-B**, Torrell was "recruited" as an infant when his family’s transport ship was intercepted near the volcanic world [[Kragos-7]]. Official records list him as deceased due to an "accident," but in reality, he was abducted by [[Skyfire Initiative|Skyfire operatives]].
 

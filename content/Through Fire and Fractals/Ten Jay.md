@@ -8,8 +8,11 @@ draft: false
 ---
 
 **Name:** Ten Jay
+
 **Age:** 25
+
 **Role:** Former Space Navy Officer, Intelligence Operative, and Sniper
+
 **Current Status:** Freelance mercenary navigating the galaxy’s moral gray zones
 
 ## Early Life
