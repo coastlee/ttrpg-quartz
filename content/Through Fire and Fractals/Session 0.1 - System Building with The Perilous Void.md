@@ -6,9 +6,9 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Sessions]]
-**Previous.** [[Session 3 - Trust and the Lens]]
-**Next.** [[Session 0.2 - Sector Creation]]
+**Up.** [[Sessions]]<br/>
+**Previous.** [[Session 3 - Trust and the Lens]]<br/>
+**Next.** [[Session 0.2 - Sector Creation]]<br/>
 
 ## Scene 0.1: System Building with the Perilous Void
 
