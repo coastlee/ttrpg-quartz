@@ -6,14 +6,11 @@ tags:
   - player/seth
 draft: false
 ---
+**Up.** [[Through Fire and Fractals]]
 
-**Name:** Ten Jay
-
-**Age:** 25
-
-**Role:** Former Space Navy Officer, Intelligence Operative, and Sniper
-
-**Current Status:** Freelance mercenary navigating the galaxy’s moral gray zones
+| **Name** | **Age** | **Role**                                                  | **Current Status**                                           |
+| -------- | ------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| Ten Jay  | 25      | Former Space Navy Officer, Intelligence Operative, Sniper | Freelance Mercenary navigating the galaxy's moral gray zones |
 
 ## Early Life
 

@@ -11,3 +11,11 @@ The Helion Directive is a shadowy division of the intergalactic conglomerate [[A
 
 They funded [[The Skyfire Initiative]].
 
+## Species Composition
+
+| **Species** | **%** |
+| ----------- | ----- |
+| Humans      | 90    |
+| Other       | 10    |
+
+

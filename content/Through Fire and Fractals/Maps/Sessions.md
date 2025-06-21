@@ -12,4 +12,4 @@ up: "[[Through Fire and Fractals]]"
 - [[Session 1 - Thief and Flight]]
 - [[Session 2 - The Escape]]
 - [[Session 3 - Trust and the Lens]]
-- [[Session 4]]
+- [[Session 0.1 - System Building with The Perilous Void]]

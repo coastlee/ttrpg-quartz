@@ -8,7 +8,7 @@ draft: false
 ---
 **Up.** [[Sessions]]
 **Previous.** [[Session 2 - The Escape]]
-**Next.** [[Session 4]]
+**Next.** [[Session 0.1 - System Building with The Perilous Void]]
 
 # 📘 Scene 3: Flight to [[Obsidian Reach]]
 

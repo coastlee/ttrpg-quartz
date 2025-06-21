@@ -6,3 +6,6 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+A specialist group within the [[Orion Star Navy (OSN)]].
