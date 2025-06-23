@@ -6,4 +6,4 @@ tags:
 date: 2025-06-19
 up: "[[Locations]]"
 ---
-`**Up.** [[Locations]]
+**Up.** [[Locations]]

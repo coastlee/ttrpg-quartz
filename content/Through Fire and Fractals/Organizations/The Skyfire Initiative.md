@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 The Skyfire Initiative was funded by [[The Helion Directive]], a shadowy division of the intergalactic conglomerate [[Apex Systems Corporation]], known for pushing the limits of bioengineering and weapons development. The Initiative was officially disbanded after a catastrophic incident involving another cohort, but remnants of the project continue in secret.
 

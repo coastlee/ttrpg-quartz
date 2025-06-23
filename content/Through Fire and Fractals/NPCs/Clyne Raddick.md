@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 ### NPC Name: **Clyne Raddick**
 

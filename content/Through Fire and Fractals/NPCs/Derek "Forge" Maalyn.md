@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 Subject survivor of [[The Skyfire Initiative]] and peer to [[Torrell Tharock]] and [[Kessara Rynn ("Blades")]].
 - **Role:** Heavy support and demolitions expert.

@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 Former hacker for the [[Alveon Syndicate]] who helped [[Ten Jay|Ten]] escape. She is now a close ally, providing intel and tech support for his mercenary work.
 

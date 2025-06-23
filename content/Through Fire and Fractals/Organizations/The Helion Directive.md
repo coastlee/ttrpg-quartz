@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 The Helion Directive is a shadowy division of the intergalactic conglomerate [[Apex Systems Corporation]], known for pushing the limits of bioengineering and weapons development.
 

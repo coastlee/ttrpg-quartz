@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 Lead geneticist specializing in cognitive augmentation. Known for her ethical dilemmas about the project.
 

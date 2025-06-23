@@ -6,6 +6,9 @@ tags:
 date: 2025-06-12
 up: "[[NPCs]]"
 ---
+**Up.** [[NPCs]]
+
+---
 
 An intergalactic conglomerate. Parent company of the shadowy organization known as [[The Helion Directive]].
 
