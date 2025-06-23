@@ -1,12 +1,12 @@
 ---
-title: "Through Fire and Fractals - Regions"
+title: Through Fire and Fractals - Regions
 date: 2025-06-12
 tags:
   - map
   - through-fire-and-fractals
 draft: false
-up: "[[Through Fire and Fractals]]"
 ---
+**Up.** [[Through Fire and Fractals]]
 
 ## Sector Regions
 
