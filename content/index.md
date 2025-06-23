@@ -13,4 +13,4 @@ date: 2025-06-12
 ## Campaign Notes
 
 [[Through Fire and Fractals]]
-- Next Session: 19 June 2025 @ 21:00 ET
+- Next Session: 03 July 2025 @ 21:00 ET (19:00 MT)
