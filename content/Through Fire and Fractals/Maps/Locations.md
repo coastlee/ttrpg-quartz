@@ -7,7 +7,9 @@ tags:
 draft: false
 up: "[[Through Fire and Fractals]]"
 ---
+**Up.** [[Through Fire and Fractals]]
 
+---
 ## Sector Regions
 
 - [[Orion Arm]]

@@ -7,6 +7,9 @@ tags:
 draft: false
 up: "[[Through Fire and Fractals]]"
 ---
+**Up.** [[Through Fire and Fractals]]
+
+---
 
 - Groups
 	- [[Apex Systems Corporation]]
