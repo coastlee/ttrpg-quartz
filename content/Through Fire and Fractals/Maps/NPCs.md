@@ -37,10 +37,10 @@ draft: false
 
 ### Organizations
 
-- [[Alveon Syndicate]]
-- [[Naval Intelligence Directorate (NID)]]
-- [[Orion Star Navy (OSN)]]
 - [[United Stellar Federation (USF)]]
-- [[The Non-Terrans' Union (NTU)]]
-- [[Crimson Contract]]
+	- [[Orion Star Navy (OSN)]]
+		- [[Naval Intelligence Directorate (NID)]]
 - [[The Concordant Axis]]
+- [[The Non-Terrans' Union (NTU)]]
+- [[Alveon Syndicate]]
+- [[Crimson Contract]]
