@@ -8,9 +8,10 @@ tags:
   - duo/Seth
 date: 2025-06-12
 aliases:
-  - "00"
-  - Home
+  - tff
 ---
+**Up.** [[index|TTRPG Home]]
+
 ## Shared Notes
 
 [Google Doc](https://docs.google.com/document/d/1FyOBQ69z2O7GEiXaptWRKJhe3lUw7NTP29UUE7kzh0k)
