@@ -7,6 +7,7 @@ tags:
 draft: false
 up: "[[Through Fire and Fractals]]"
 ---
+**Up.** [[Through Fire and Fractals]]
 
 - [[Session 0 - Backstories]]
 - [[Session 1 - Thief and Flight]]

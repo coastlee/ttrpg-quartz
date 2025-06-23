@@ -1,5 +1,5 @@
 ---
-title: Through Fire and Fractals
+title: Through Fire and Fractals - Home
 draft: false
 tags:
   - campaign
@@ -7,7 +7,9 @@ tags:
   - map
   - duo/Seth
 date: 2025-06-12
-up: "[[TTRPG Home|00]]"
+aliases:
+  - "00"
+  - Home
 ---
 ## Shared Notes
 
@@ -27,6 +29,7 @@ up: "[[TTRPG Home|00]]"
 - [[Session 1 - Thief and Flight]]
 - [[Session 2 - The Escape]]
 - [[Session 3 - Trust and the Lens]]
+- [[Session 0.1 - System Building with The Perilous Void]]
 
 ## Characters
 
