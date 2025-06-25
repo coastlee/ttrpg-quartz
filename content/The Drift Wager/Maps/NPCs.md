@@ -20,8 +20,8 @@ draft: false
 
 #### Encountered in the Story
 
-[[Kethron Vask]]
+- [[Kethron Vask]]
 
 ### Organizations
 
-[[The Security Guild]]
+- [[The Security Guild]]

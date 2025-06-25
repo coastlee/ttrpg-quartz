@@ -14,7 +14,7 @@ tags:
 - Guild officers wear carbon-gray uniforms with segmented chestplates, and their insignia is a silver eye over a downward-pointing blade. Most carry stunners, pulse pistols, and batons—though higher-clearance agents are known to wield serious firepower.
 - Their motto: “Order Through Control.” Most locals joke that the full version is “Order Through Control of You and Your Wallet.”
 
-What the protagonists know:
+### What the protagonists know:
 
 - The Guild doesn’t patrol the slums or mid-habs unless paid to. Protection is a service: if you want them to intervene, you’d better be part of a contract.
 - They’re efficient, professional, and very difficult to bribe—but not impossible. They tend to ignore illicit activities as long as it doesn’t upset their own revenue streams or embarrass them publicly.

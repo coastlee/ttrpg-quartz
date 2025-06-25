@@ -12,15 +12,15 @@ draft: false
 
 ## Sector Regions
 
-[[The Halvyr Arc]]
+- [[The Halvyr Arc]]
 
 ## Planets
 
-[[Halvyr Prime]]
-[[Ordo V]]
-[[Nyxhale]]
-[[Vosset Ring]]
-[[Terminus Thule]]
+- [[Halvyr Prime]]
+- [[Ordo V]]
+- [[Nyxhale]]
+- [[Vosset Ring]]
+- [[Terminus Thule]]
 
 ## Settlements / Stations
 

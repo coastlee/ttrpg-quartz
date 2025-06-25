@@ -18,7 +18,6 @@ aliases:
 ## Shared Notes
 
 
-
 ## Lore
 
 ### [[The Drift Wager/Maps/Items|Items]]
