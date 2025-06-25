@@ -4,8 +4,8 @@ draft: false
 tags:
   - through-fire-and-fractals/organization
 date: 2025-06-12
-up: "[[NPCs]]"
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
-**Up.** [[NPCs]]
+**Up.** [[Through Fire and Fractals/Maps/NPCs]]
 
 A specialist group within the [[Orion Star Navy (OSN)]].

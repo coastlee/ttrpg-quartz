@@ -4,10 +4,7 @@ draft: false
 tags:
   - through-fire-and-fractals/organization
 date: 2025-06-12
-up: "[[NPCs]]"
----
-**Up.** [[NPCs]]
-
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
 An intergalactic conglomerate. Parent company of the shadowy organization known as [[The Helion Directive]].

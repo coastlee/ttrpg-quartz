@@ -6,7 +6,7 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Sessions]]<br/>
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
 **Previous.** [[Session 3 - Trust and the Lens]]<br/>
 **Next.** [[Session 0.2 - Sector Creation]]<br/>
 

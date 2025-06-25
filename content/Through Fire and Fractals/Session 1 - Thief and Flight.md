@@ -6,7 +6,7 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Sessions]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]
 **Previous.** [[Session 0 - Backstories]]
 **Next.** [[Session 2 - The Escape]]
 

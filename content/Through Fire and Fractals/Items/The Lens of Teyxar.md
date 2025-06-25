@@ -4,32 +4,25 @@ draft: false
 tags:
   - through-fire-and-fractals/item
 date: 2025-06-12
-up: "[[Items]]"
+up: "[[Through Fire and Fractals/Maps/Items]]"
 ---
-**Up.** [[Items]]
+**Up.** [[Through Fire and Fractals/Maps/Items]]
 
 ---
-
 tags:
   - system/woin
   - woin/campaign/through-fire-and-fractals
   - through-fire-and-fractals/item
+---
+![[the-lens-of-teyxar.png]]*Rolled 2d8 for two options*
+
+3 - Decipher past: Can translate data and lost language and symbols so it can unlock ancient star maps and treasure locations, unlock vanished galactic empire and technology and cultures, clues to a powerful secret, unknown, maybe related to a threat or mythical weapon
+4 - Sabotage and espionage. It can allow you to track others movements while obscuring your own movements.
+1 - Unmatched Navigation
 
 ---
 
-![[The-Lens-of-Teyxar.png]]
-
-*Rolled 2d8 for two options*
-
-- 3 - Decipher past: Can translate data and lost language and symbols so it can unlock ancient star maps and treasure locations, unlock vanished galactic empire and technology and cultures, clues to a powerful secret, unknown, maybe related to a threat or mythical weapon
-- 4 - Sabotage and espionage. It can allow you to track others movements while obscuring your own movements.
-- 1 - Unmatched Navigation
-
----
-
-[[Ten Jay|Ten]], being a mercenary with little cash and a practical mindset, might latch onto exaggerated or fantastical elements of the Lens of Teyxar's legend. His belief in its abilities could be shaped by desperation, wishful thinking, or tall tales from disreputable sources in the cantinas and markets he frequents.
-
-*Note: After picking this back up after a 5-ish month break, we decided that, through his government work, [[Ten Jay|Ten]] learned of the The Lens of Teyxar. It became his fascination and hobby to learn more about and seek it out.*
+Ten, being a mercenary with little cash and a practical mindset, might latch onto exaggerated or fantastical elements of the Lens of Teyxar's legend. His belief in its abilities could be shaped by desperation, wishful thinking, or tall tales from disreputable sources in the cantinas and markets he frequents.
 
 ### What Ten Might Believe:
 

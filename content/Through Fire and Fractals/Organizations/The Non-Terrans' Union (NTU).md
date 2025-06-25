@@ -4,11 +4,11 @@ draft: false
 tags:
   - through-fire-and-fractals/organization
 date: 2025-06-20
-up: "[[NPCs]]"
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 aliases:
   - NTU
 ---
-**Up.** [[NPCs]]
+**Up.** [[Through Fire and Fractals/Maps/NPCs]]
 
 ## Species Composition
 

@@ -8,8 +8,6 @@ draft: false
 ---
 **Up.** [[Through Fire and Fractals]]
 
----
-
 ### Groups
 
 - [[Apex Systems Corporation]]

@@ -6,7 +6,7 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Sessions]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]
 **Previous.** [[Session 2 - The Escape]]
 **Next.** [[Session 0.1 - System Building with The Perilous Void]]
 

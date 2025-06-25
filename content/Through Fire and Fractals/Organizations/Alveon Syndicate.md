@@ -4,9 +4,9 @@ draft: false
 tags:
   - through-fire-and-fractals/organization
 date: 2025-06-12
-up: "[[NPCs]]"
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
-**Up.** [[NPCs]]
+**Up.** [[Through Fire and Fractals/Maps/NPCs]]
 
 a notorious criminal cartel with shadowy ties to rogue planetary governments.
 
