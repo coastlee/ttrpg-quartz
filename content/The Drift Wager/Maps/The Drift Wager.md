@@ -30,3 +30,6 @@ aliases:
 
 
 ## Characters
+
+- [[Vex Calder]]
+- [[Zira Vonn]]
