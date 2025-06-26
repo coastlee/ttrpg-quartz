@@ -25,3 +25,4 @@ draft: false
 ### Organizations
 
 - [[The Security Guild]]
+- [[The Trade Consortium]]

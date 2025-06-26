@@ -4,6 +4,8 @@ date: 2025-06-25
 tags:
   - player-character/savage-worlds
 draft: false
+aliases:
+  - Vex
 ---
 **Up.** [[The Drift Wager]]
 

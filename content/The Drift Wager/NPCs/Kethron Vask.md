@@ -4,6 +4,8 @@ draft: false
 tags:
   - the-drift-wager/npc
 date: 2025-06-25
+aliases:
+  - Kethron
 ---
 **Up.** [[The Drift Wager/Maps/NPCs|NPCs]]
 

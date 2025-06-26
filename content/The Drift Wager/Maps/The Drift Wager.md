@@ -20,6 +20,8 @@ aliases:
 
 ## Lore
 
+### [[Facts]]
+
 ### [[The Drift Wager/Maps/Items|Items]]
 
 ### [[The Drift Wager/Maps/Locations|Locations]]
