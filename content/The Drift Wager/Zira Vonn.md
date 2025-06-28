@@ -15,8 +15,15 @@ aliases:
 
 [Character Sheet]()
 
-**Edge.** McGyver (can jury-rig with ease)
-**Hindrance.** Curious
+**Edges.** 
+
+- [[McGyver]] (can jury-rig with ease)
+- [[Construct]]
+
+**Hindrances.**
+
+- [[Curious]]
+- [[Outsider]]
 
 ![[zira-vonn-token.png]]
 
