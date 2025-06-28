@@ -22,7 +22,7 @@ aliases:
 **Race.** Human<br/>
 **Height.**<br/>
 **Weight.**<br/>
-**Bennies.**<br/>
+**Bennies.** 3<br/>
 **Conviction.**<br/>
 
 ### Attributes

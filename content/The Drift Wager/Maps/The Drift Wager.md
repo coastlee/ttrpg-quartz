@@ -34,4 +34,4 @@ aliases:
 ## Characters
 
 - [[Vex Calder]]
-- [[Zira Vonn]]
+- [[Orbital Maintenance Bot 802 (Boz)]]
