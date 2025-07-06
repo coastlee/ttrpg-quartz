@@ -12,7 +12,7 @@ draft: false
 
 ## Scene 1: The Lens at the Auction
 
-[[Torrell Tharock]] was running from [[Dane Jay]] and his crew of mercenaries or they might even be a military group. Torrell was running through an auction. He spotted something shiny to make a scene and scooped it up to cause chaos and commotion to slow down and confuse Dane's group. The auction was held in [[Ashen Hollow]] on [[Kragos-7]].
+[[Torrell Tharock]] was running from [[Dane Jay]] and his crew of mercenaries or they might even be a military group. Torrell was running through an auction. He spotted something shiny to make a scene and scooped it up to cause chaos and commotion to slow down and confuse Dane's group.
 
 [[Ten Jay]] spotted [[Torrell Tharock]] stealing the item and had an inkling of an idea of what that item ([[The Lens of Teyxar]]) did! So he decided to join [[Torrell Tharock]] in his flight.
 

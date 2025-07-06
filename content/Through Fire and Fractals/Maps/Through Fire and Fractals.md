@@ -16,8 +16,6 @@ aliases:
 
 [Google Doc](https://docs.google.com/document/d/1FyOBQ69z2O7GEiXaptWRKJhe3lUw7NTP29UUE7kzh0k)
 
-[[Mythic Adventure Journal.canvas|Mythic Adventure Journal]]
-
 ## Lore
 
 ### [[Items]]

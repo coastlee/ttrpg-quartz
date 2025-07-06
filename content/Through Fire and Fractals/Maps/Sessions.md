@@ -1,13 +1,11 @@
 ---
-title: Through Fire and Fractals - Sessions
+title: "Through Fire and Fractals - Sessions"
 date: 2025-06-12
 tags:
   - map
   - through-fire-and-fractals
 draft: false
----
-**Up.** [[Through Fire and Fractals]]
-
+up: "[[Through Fire and Fractals]]"
 ---
 **Up.** [[Through Fire and Fractals]]
 

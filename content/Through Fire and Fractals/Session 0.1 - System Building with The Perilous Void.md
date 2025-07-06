@@ -42,17 +42,14 @@ We decided to leverage the *What's O.L.D. is N.E.W.* species, namely [[Ogrons]],
 **Interplanetary Alliance.** A group of neighboring planets or star systems that unite for
 mutual defense, trade, and resource sharing.
 
-**Alien Contingent.** A group of one or more NONHUMAN SPECIES (page 20), cooperating toward mutually beneficial ends.
+**Alien Contingent.**
 
-**Mercenary Coalition.** Bands of mercenaries, bounty hunters, and soldiers-for-hire,
-organized in their navigation of allegiances based on profit.
+**Mercenary Coalition.**
 
-**Corporate Conglomerate.** A business alliance that controls resources, trade, and tech.
+**Corporate Conglomerate.**
 
-**Research Consortium.** A group of scientific organizations and think tanks that push
-the boundaries of knowledge, often with their own agendas and ethical dilemmas.
+**Research Consortium.**
 
-**Interstellar Syndicate.** A criminal organization of smuggling rings that controls the
-black market, illicit trade, and other shadowy operations.
+**Interstellar Syndicate.**
 
 ![[through-fire-and-fractals-system-overview.png]]
