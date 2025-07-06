@@ -5,6 +5,7 @@ tags:
   - through-fire-and-fractals/organization
 date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
+aliases: "USF"
 ---
 **Up.** [[Through Fire and Fractals/Maps/NPCs]]
 
