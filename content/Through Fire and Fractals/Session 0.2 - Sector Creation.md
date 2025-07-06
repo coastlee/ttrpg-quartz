@@ -16,7 +16,7 @@ draft: false
 
 We made it through steps 7 and 9.
 
-![[20250705.InterstellerUSFRelations.png]]*Interstellar Societies & Relations, Step 7.*
+![[20250705.InterstellarUSFRelations.png]]*Interstellar Societies & Relations, Step 7.*
 
 We decided to only determine how the [[USF]] currently interfaces with other interstellar societies.
 Perhaps we will revisit this at some other point in time.
