@@ -9,7 +9,6 @@ up: "[[Through Fire and Fractals]]"
 ---
 **Up.** [[Through Fire and Fractals]]
 
----
 ## Sector Regions
 
 - [[Orion Arm]]
@@ -21,7 +20,6 @@ up: "[[Through Fire and Fractals]]"
 - [[Kragos-7]]
 - [[Tarsis IV]]
 - [[Veyra Prime]]
-- [[Zephrax-9]]
 
 ## Settlements / Stations
 

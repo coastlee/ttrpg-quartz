@@ -4,10 +4,7 @@ draft: false
 tags:
   - through-fire-and-fractals/npc
 date: 2025-06-12
-up: "[[NPCs]]"
----
-**Up.** [[NPCs]]
-
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
 Subject survivor of [[The Skyfire Initiative]] and peer to [[Torrell Tharock]] and [[Kessara Rynn ("Blades")]].

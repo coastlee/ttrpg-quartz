@@ -6,7 +6,7 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Sessions]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]
 **Previous.** [[Session 1 - Thief and Flight]]
 **Next.** [[Session 3 - Trust and the Lens]]
 

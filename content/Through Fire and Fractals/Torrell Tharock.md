@@ -11,7 +11,7 @@ draft: false
 
 **[Character Sheet](https://docs.google.com/spreadsheets/d/1j-FDcyWxzFO1Fl6SMIeKvg8qcPawxtl8dTuf47RHbPQ/edit?usp=sharing).**
 
-Part of [[The Skyfire Initiative]] experiment and dubbed **Subject 42-B**, Torrell was "recruited" as an infant when his family’s transport ship was intercepted near the volcanic world [[Kragos-7]]. Official records list him as deceased due to an "accident," but in reality, he was abducted by [[Skyfire Initiative|Skyfire operatives]].
+Part of the [[Skyfire Initiative]] experiment and dubbed **Subject 42-B**, Torrell was "recruited" as an infant when his family’s transport ship was intercepted near the volcanic world [[Kragos-7]]. Official records list him as deceased due to an "accident," but in reality, he was abducted by [[Skyfire Initiative|Skyfire operatives]].
 
 Torell was part of **Cohort Delta**, a group of 10 subjects, all taken as children and raised in isolation. Each member of the cohort underwent different enhancement paths, but only three survived to adolescence, earning the label **"The Iron Three."** Torell was the sole pilot specialist among them.
 

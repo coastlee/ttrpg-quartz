@@ -4,10 +4,7 @@ draft: false
 tags:
   - through-fire-and-fractals/npc
 date: 2025-06-12
-up: "[[NPCs]]"
----
-**Up.** [[NPCs]]
-
+up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
 [[Ten Jay|Ten's]] charismatic and morally ambiguous handler; spared by Ten during a critical mission and now living under the radar. Their relationship remains complicated.

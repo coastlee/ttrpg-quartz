@@ -1,5 +1,5 @@
 ---
-title: Through Fire and Fractals - Home
+title: Through Fire and Fractals
 draft: false
 tags:
   - campaign
@@ -9,6 +9,7 @@ tags:
 date: 2025-06-12
 aliases:
   - tff
+  - tf&f
 ---
 **Up.** [[index|TTRPG Home]]
 
@@ -18,13 +19,13 @@ aliases:
 
 ## Lore
 
-### [[Items]]
+### [[Through Fire and Fractals/Maps/Items]]
 
-### [[Locations]]
+### [[Through Fire and Fractals/Maps/Locations]]
 
-### [[NPCs]]
+### [[Through Fire and Fractals/Maps/NPCs]]
 
-## [[Sessions]]
+## [[Through Fire and Fractals/Maps/Sessions]]
 
 - [[Session 0 - Backstories]]
 - [[Session 1 - Thief and Flight]]
