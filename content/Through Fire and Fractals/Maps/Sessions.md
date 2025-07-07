@@ -13,3 +13,4 @@ up: "[[Through Fire and Fractals]]"
 - [[Session 2 - The Escape]]
 - [[Session 3 - Trust and the Lens]]
 - [[Session 0.1 - System Building with The Perilous Void]]
+- [[Session 0.2 - Sector Creation]]
