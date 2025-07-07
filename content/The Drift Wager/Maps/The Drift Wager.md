@@ -22,6 +22,8 @@ aliases:
 
 ### [[Facts]]
 
+### [[802's Log Entries]]
+
 ### [[The Drift Wager/Maps/Items|Items]]
 
 ### [[The Drift Wager/Maps/Locations|Locations]]
@@ -30,6 +32,7 @@ aliases:
 
 ## [[The Drift Wager/Maps/Sessions|Sessions]]
 
+- [[Session 0 - Crates and Consequences]]
 
 ## Characters
 

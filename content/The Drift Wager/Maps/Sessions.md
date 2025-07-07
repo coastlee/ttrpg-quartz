@@ -10,4 +10,4 @@ draft: false
 
 ---
 
-- [[Session 1 - Crates and Consequences]]
+- [[Session 0 - Crates and Consequences]]

@@ -15,7 +15,7 @@ aliases:
 
 ![[vex-calder-token.png]]
 
-[Character Sheet]()  
+![[CharacterSheet_Vex.png]]
 
 ## Character Sheet
 

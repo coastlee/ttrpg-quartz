@@ -10,5 +10,23 @@ date: 2025-06-25
 
 ---
 
-- [[Synthetics]]
+## Game Rules
+
+### Hindrances & Edges
+
+- [[Ace]]
+- [[Adaptable]]
+- [[Construct]]
+- [[Curious]]
+- [[Extraction]]
 - [[Greedy]]
+- [[Illiterate]]
+- [[McGyver]]
+- [[Outsider]]
+- [[Overconfident]]
+- [[Streetwise]]
+- [[Synthetics]]
+
+## Species
+
+- [[Soldiri]]
