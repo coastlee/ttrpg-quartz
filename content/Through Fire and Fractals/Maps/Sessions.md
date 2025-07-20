@@ -14,3 +14,4 @@ up: "[[Through Fire and Fractals]]"
 - [[Session 3 - Trust and the Lens]]
 - [[Session 0.1 - System Building with The Perilous Void]]
 - [[Session 0.2 - Sector Creation]]
+- [[Session 0.3 - Jump Routes]]
