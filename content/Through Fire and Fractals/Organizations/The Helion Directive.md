@@ -7,6 +7,8 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 The Helion Directive is a shadowy division of the intergalactic conglomerate [[Apex Systems Corporation]], known for pushing the limits of bioengineering and weapons development.
 
 They funded [[The Skyfire Initiative]].

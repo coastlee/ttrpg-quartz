@@ -13,7 +13,7 @@ date: 2025-06-12
 ## Campaign Notes
 
 [[Through Fire and Fractals]]
-- Next Session: 19 July 2025 @ 21:00 ET
+- Next Session: 02 August 2025 @ 21:00 ET
 
 [[The Drift Wager]]
 - Next Session: TBD

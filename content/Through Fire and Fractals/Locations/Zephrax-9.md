@@ -6,7 +6,8 @@ tags:
 date: 2025-06-19
 up: "[[Through Fire and Fractals/Maps/Locations]]"
 ---
-**Up.** [[Through Fire and Fractals/Maps/Locations]]
+
+**Up.** [[Through Fire and Fractals/Maps/Locations]] <br/>
 
 Zephrax-9 is in the hex 1008 which is [[Crimson Contract]] territory.
 

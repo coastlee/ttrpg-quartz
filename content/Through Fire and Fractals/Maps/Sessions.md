@@ -8,6 +8,8 @@ draft: false
 up: "[[Through Fire and Fractals]]"
 ---
 
+**Up.** [[Through Fire and Fractals]] <br/>
+
 - [[Session 0 - Backstories]]
 - [[Session 1 - Thief and Flight]]
 - [[Session 2 - The Escape]]
@@ -15,3 +17,4 @@ up: "[[Through Fire and Fractals]]"
 - [[Session 0.1 - System Building with The Perilous Void]]
 - [[Session 0.2 - Sector Creation]]
 - [[Session 0.3 - Jump Routes]]
+- [[Session 4 - ??]]

@@ -7,7 +7,8 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 aliases: "USF"
 ---
-**Up.** [[Through Fire and Fractals/Maps/NPCs]]
+
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
 
 A coalition of allied planets and systems spanning the [[Orion Arm]] of the galaxy.
 

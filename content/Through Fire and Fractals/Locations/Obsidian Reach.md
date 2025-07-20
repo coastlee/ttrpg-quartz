@@ -5,5 +5,9 @@ tags:
   - through-fire-and-fractals/location/settlement
 up: "[[Kragos-7]]"
 ---
-**Up.** [[Kragos-7]]
+
+**Up.** [[Kragos-7]] <br/>
+
 # Obsidian Reach
+
+- [[Salvage Yard: Scrapjaw's Roost]]

@@ -6,6 +6,9 @@ tags:
 date: 2025-06-15
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
+
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 ## 🔧 **Salvage Yard: "Scrapjaw's Roost"**
 
 **Location:** Southern rim of [[Obsidian Reach]], perched above a cracked lava trench and surrounded by heaps of scrap hulls and broken mech parts. Old industrial cranes creak in the ash-laden wind. A faded sign with flickering neon reads: `S💀RAPJAW'S R🍂ST - NO QUESTIONS, CASH ONLY.`

@@ -8,7 +8,8 @@ up: "[[Through Fire and Fractals/Maps/NPCs]]"
 aliases:
   - NTU
 ---
-**Up.** [[Through Fire and Fractals/Maps/NPCs]]
+
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
 
 ## Species Composition
 

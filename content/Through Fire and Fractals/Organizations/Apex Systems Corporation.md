@@ -7,6 +7,8 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 An intergalactic conglomerate. Parent company of the shadowy organization known as [[The Helion Directive]].
 
 ## Species Composition

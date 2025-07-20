@@ -6,9 +6,9 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Through Fire and Fractals/Maps/Sessions]]
-**Previous.** [[Session 0 - Backstories]]
-**Next.** [[Session 2 - The Escape]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
+**Previous.** [[Session 0 - Backstories]]<br/>
+**Next.** [[Session 2 - The Escape]]<br/>
 
 ## Scene 1: The Lens at the Auction
 

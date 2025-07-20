@@ -6,9 +6,9 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Through Fire and Fractals/Maps/Sessions]]
-**Previous.** [[Session 1 - Thief and Flight]]
-**Next.** [[Session 3 - Trust and the Lens]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
+**Previous.** [[Session 1 - Thief and Flight]]<br/>
+**Next.** [[Session 3 - Trust and the Lens]]<br/>
 
 ## Scene 2: Escape from Ashen Hollow
 

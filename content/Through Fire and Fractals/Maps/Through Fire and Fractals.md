@@ -11,7 +11,8 @@ aliases:
   - tff
   - tf&f
 ---
-**Up.** [[index|TTRPG Home]]
+
+**Up.** [[index|TTRPG Home]] <br/>
 
 ## Shared Notes
 
@@ -32,6 +33,9 @@ aliases:
 - [[Session 2 - The Escape]]
 - [[Session 3 - Trust and the Lens]]
 - [[Session 0.1 - System Building with The Perilous Void]]
+- [[Session 0.2 - Sector Creation]]
+- [[Session 0.3 - Jump Routes]]
+- [[Session 4 - ??]]
 
 ## Characters
 

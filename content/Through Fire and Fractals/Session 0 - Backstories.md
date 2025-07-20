@@ -6,8 +6,8 @@ tags:
   - duo/seth
 draft: false
 ---
-**Up.** [[Through Fire and Fractals/Maps/Sessions]]
-**Next.** [[Session 1 - Thief and Flight]]
+**Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
+**Next.** [[Session 1 - Thief and Flight]]<br/>
 
 **QUESTIONS**
 

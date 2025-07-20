@@ -7,7 +7,8 @@ date: 2025-06-20
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 aliases: []
 ---
-**Up.** [[Through Fire and Fractals/Maps/NPCs]]
+
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
 
 ## Species Composition
 

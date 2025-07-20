@@ -7,6 +7,8 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 Subject survivor of [[The Skyfire Initiative]] and peer to [[Torrell Tharock]] and [[Derek "Forge" Maalyn]].
  
 - **Role:** Close-quarters combat and infiltration specialist.

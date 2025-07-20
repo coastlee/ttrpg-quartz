@@ -7,11 +7,13 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 [[Ten Jay|Ten's]] charismatic and morally ambiguous handler; spared by Ten during a critical mission and now living under the radar. Their relationship remains complicated.
 
-**Role:** Former Naval Intelligence Operative 
-**Age:** 39 Personality: Charismatic, Calculating, Ruthless Current 
-**Status:** On the run after being exposed as a rogue agent
+**Role:** Former Naval Intelligence Operative <br/>
+**Age:** 39 Personality: Charismatic, Calculating, Ruthless Current <br/>
+**Status:** On the run after being exposed as a rogue agent<br/>
 
 ## Background 
 

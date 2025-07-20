@@ -6,4 +6,5 @@ tags:
 date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/Locations]]"
 ---
-**Up.** [[Through Fire and Fractals/Maps/Locations]]
+
+**Up.** [[Through Fire and Fractals/Maps/Locations]] <br/>

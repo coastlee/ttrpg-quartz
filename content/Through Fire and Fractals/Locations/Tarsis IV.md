@@ -6,4 +6,7 @@ tags:
 date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/Locations]]"
 ---
-**Up.** [[Through Fire and Fractals/Maps/Locations]]
+
+**Up.** [[Through Fire and Fractals/Maps/Locations]] <br/>
+
+An **exotic molecule giant** that the [[USF]] uses for mining its rare materials. It has a *lunar outpost* as its base of operations.

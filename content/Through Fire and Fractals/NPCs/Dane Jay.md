@@ -7,4 +7,6 @@ date: 2025-06-12
 up: "[[Through Fire and Fractals/Maps/NPCs]]"
 ---
 
+**Up.** [[Through Fire and Fractals/Maps/NPCs]] <br/>
+
 Older brother and respected [[Orion Star Navy (OSN)|OSN]] Navy officer; a source of admiration and eventual tension as Dane struggles to understand [[Ten Jay|Ten's]] departure from the Navy.
