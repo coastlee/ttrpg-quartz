@@ -35,7 +35,7 @@ aliases:
 - [[Session 0.1 - System Building with The Perilous Void]]
 - [[Session 0.2 - Sector Creation]]
 - [[Session 0.3 - Jump Routes]]
-- [[Session 4 - ??]]
+- [[Session 0.4 - Planet Generation]]
 
 ## Characters
 
