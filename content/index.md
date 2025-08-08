@@ -14,7 +14,7 @@ date: 2025-06-12
 
 [[Through Fire and Fractals]]
 - Next Session: 09 August 2025 @ 21:00 ET
-- [[Previous Session|Session 0.4 - Planet Generation]]
+- **Previous Session.** [[Session 0.4 - Planet Generation]]
 
 [[The Drift Wager]]
 - Next Session: TBD
