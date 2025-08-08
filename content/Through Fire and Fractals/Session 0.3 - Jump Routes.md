@@ -8,7 +8,7 @@ draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
 **Previous.** [[Session 0.2 - Sector Creation]]<br/>
-**Next.** [[Session 4 - ??]]<br/>
+**Next.** [[Session 0.4 - Planet Generation]]<br/>
 
 ## Scene 0.3: Jump Routes
 
