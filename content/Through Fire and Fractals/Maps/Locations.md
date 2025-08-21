@@ -9,6 +9,8 @@ up: "[[Through Fire and Fractals]]"
 ---
 **Up.** [[Through Fire and Fractals]] <br/>
 
+![[Through Fire and Fractals Locations.base]]
+
 ## Sector Regions
 
 - [[Orion Arm]]

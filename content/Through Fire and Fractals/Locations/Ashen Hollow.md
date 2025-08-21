@@ -4,6 +4,8 @@ draft: false
 tags:
   - through-fire-and-fractals/location/settlement
 up: "[[Kragos-7]]"
+location-type: settlement
+location-parent: "[[Kragos-7]]"
 ---
 
 **Up.** [[Kragos-7]] <br/>

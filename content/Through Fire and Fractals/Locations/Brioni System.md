@@ -4,6 +4,8 @@ draft: false
 tags:
   - through-fire-and-fractals/location/star-system
 up: "[[The Lusendri Sector]]"
+location-type: star system
+location-parent: "[[The Lusendri Sector]]"
 ---
 
 **Up.** [[The Lusendri Sector]] <br/>
