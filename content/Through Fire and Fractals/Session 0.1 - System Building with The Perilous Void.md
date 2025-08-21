@@ -3,7 +3,7 @@ title: TF&F - Session 0.1 - System Building with the Perilous Void
 date: 2025-06-20
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

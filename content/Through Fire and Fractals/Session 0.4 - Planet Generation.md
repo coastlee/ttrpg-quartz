@@ -3,7 +3,7 @@ title: TF&F - Session 0.4 - Planet Generation
 date: 2025-08-07
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

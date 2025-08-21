@@ -3,7 +3,7 @@ title: TF&F - Session 0.2 - Sector Creation
 date: 2025-07-05
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

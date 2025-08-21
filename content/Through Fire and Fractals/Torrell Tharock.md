@@ -3,7 +3,7 @@ title: Character - Torrell Tharock
 date: 2025-06-12
 tags:
   - player-character/woin
-  - player/josh
+  - player/J
 draft: false
 ---
 

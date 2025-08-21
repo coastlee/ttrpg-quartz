@@ -5,7 +5,7 @@ tags:
   - campaign
   - through-fire-and-fractals
   - map
-  - duo/Kolby
+  - duo/K
 date: 2025-06-25
 aliases:
   - tdw

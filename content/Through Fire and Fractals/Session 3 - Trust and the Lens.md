@@ -3,7 +3,7 @@ title: TF&F - Session 3 - Trust and the Lens
 date: 2025-06-14
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

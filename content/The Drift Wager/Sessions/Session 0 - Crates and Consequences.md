@@ -3,7 +3,7 @@ title: "Session 0: Crates and Consequences"
 date: 2025-06-25
 tags:
   - session/savage-worlds
-  - duo/Kolby
+  - duo/K
 draft: false
 ---
 **Up.** [[The Drift Wager/Maps/Sessions|Sessions]]

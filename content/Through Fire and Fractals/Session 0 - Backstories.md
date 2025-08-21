@@ -3,7 +3,7 @@ title: "TF&F - Session 0 - Character Creation"
 date: 2024-12-07
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

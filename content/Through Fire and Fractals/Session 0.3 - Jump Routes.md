@@ -3,7 +3,7 @@ title: TF&F - Session 0.3 - Jump Routes
 date: 2025-07-19
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

@@ -3,7 +3,7 @@ title: "Character - Ten Jay"
 date: 2025-06-12
 tags:
   - player-character/woin
-  - player/seth
+  - player/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals]]

@@ -3,7 +3,7 @@ title: TF&F - Session 1
 date: 2025-06-12
 tags:
   - session/woin
-  - duo/seth
+  - duo/S
 draft: false
 ---
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>

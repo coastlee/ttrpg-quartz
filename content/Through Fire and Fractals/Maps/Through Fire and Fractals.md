@@ -5,7 +5,7 @@ tags:
   - campaign
   - through-fire-and-fractals
   - map
-  - duo/Seth
+  - duo/S
 date: 2025-06-12
 aliases:
   - tff
