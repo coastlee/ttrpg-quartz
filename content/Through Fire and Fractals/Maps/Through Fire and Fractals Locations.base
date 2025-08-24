@@ -8,3 +8,5 @@ views:
       - file.name
       - location-parent
       - location-type
+    columnSize:
+      note.location-parent: 164

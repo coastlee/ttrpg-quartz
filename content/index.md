@@ -20,3 +20,7 @@ date: 2025-06-12
 - Next Session: TBD
 
 [[Solos]]
+- My solo sessions
+
+[[Online Games]]
+- Place for me to manage the online games I'm participating in
