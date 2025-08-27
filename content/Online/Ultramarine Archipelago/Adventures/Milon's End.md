@@ -11,7 +11,7 @@ summarized-to-link: https://discord.com/channels/767801438709481522/115809319126
 summarized-to: 2025-08-27
 adventure-start-link: https://discord.com/channels/767801438709481522/1158093191266963516/1408526300322467911
 ---
-**Up.** [[Mikel Embyre]]<br/>
+**Up.** [[Adventures]]<br/>
 **Starting Post.** [Discord Link](https://discord.com/channels/767801438709481522/1158093191266963516/1408526300322467911) <br/>
 **Summarized To.** [Discord Link](https://discord.com/channels/767801438709481522/1158093191266963516/1410090488786325565) <br/>
 
