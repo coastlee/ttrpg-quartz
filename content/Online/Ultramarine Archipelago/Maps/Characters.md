@@ -8,4 +8,4 @@ draft: false
 
 - [[Azahl Abaikari]]
 - [[Melos]]
-- [[New Character]]
+- [[Mikel Embyre]]
