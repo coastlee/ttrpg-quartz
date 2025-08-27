@@ -11,20 +11,22 @@ summarized-to-link: https://discord.com/channels/767801438709481522/115809319126
 summarized-to: 2025-08-27
 adventure-start-link: https://discord.com/channels/767801438709481522/1158093191266963516/1408526300322467911
 ---
-**Up.** [[Mikel Embyre]]
+**Up.** [[Mikel Embyre]]<br/>
+**Starting Post.** [Discord Link](https://discord.com/channels/767801438709481522/1158093191266963516/1408526300322467911) <br/>
+**Summarized To.** [Discord Link](https://discord.com/channels/767801438709481522/1158093191266963516/1410090488786325565) <br/>
 
 # Caldera
 
-Strange tides flow around Caldera, and some clever sailors have threaded a course that leads to the docks of Castlenou…
+Strange tides flow around **Caldera**, and some clever sailors have threaded a course that leads to the docks of **Castlenou**…
 
-A day’s walk from the city lies Milon’s End, a ruined manor built atop a much older dungeon. Adventurers delve it, sometimes pulling up valuable treasure, sometimes dying down there with their possessions. It is used as a lair by whatever malcontent or monster happens to be in the area at present.  
+A day’s walk from the city lies **Milon’s End**, a ruined manor built atop a much older dungeon. Adventurers delve it, sometimes pulling up valuable treasure, sometimes dying down there with their possessions. It is used as a lair by whatever malcontent or monster happens to be in the area at present.  
 
 **Rumors and rewards:**
 
-•    The dungeon has four levels/floors that are accessible at present.
-•    Some local villagers have been surreptitiously visiting the dungeon with regularity in spite of the common dangers.
-•    A thief recently managed to steal the Vase of Holy Quicksilver from the monastery of Sent Miquel. They were tracked to the vicinity of the dungeon before their pursuers were beset by goblins and had to turn back.
-•    The local baron will pay 12,000 silver if you can verify to his inspector that the manor ruins are safe to begin restoration.
+- The dungeon has four levels/floors that are accessible at present.
+- Some local villagers have been surreptitiously visiting the dungeon with regularity in spite of the common dangers.
+- A thief recently managed to steal the **Vase of Holy Quicksilver** from the monastery of **Sent Miquel**. They were tracked to the vicinity of the dungeon before their pursuers were beset by goblins and had to turn back.
+- The local baron will pay 12,000 silver if you can verify to his inspector that the manor ruins are safe to begin restoration.
 
 ## Traveling to Milon's End
 
