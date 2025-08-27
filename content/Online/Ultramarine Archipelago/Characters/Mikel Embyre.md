@@ -17,9 +17,7 @@ aliases:
 
 For my future reference, the plan is to go to [[Mikel-Embyre-Character-Sheet-Level-1.excalidraw]], edit it, take new screenshots, and replace them here.
 
-![[mikel-embyre-character-sheet-level-1-front.png]]
-
-![[mikel-embyre-character-sheet-level-1-back.png]]
+![[Mikel-Embyre-Character-Sheet-Level-1.excalidraw.png]]
 
 ### Links to Definitions
 
