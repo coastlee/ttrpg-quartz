@@ -9,7 +9,7 @@ draft: false
 **Up.** [[Through Fire and Fractals/Maps/Sessions]]<br/>
 **Previous.** [[Session 2 - The Escape]]<br/>
 **Next. (Chronological)** [[Session 0.1 - System Building with The Perilous Void]]<br/>
-**Next. (Story)** [[Session 4 -- ?]]<br/>
+**Next. (Story)** [[Session 4]]<br/>
 
 # 📘 Scene 3: Flight to [[Obsidian Reach]]
 

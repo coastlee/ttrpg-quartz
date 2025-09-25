@@ -3,9 +3,9 @@ title: The Drift Wager
 draft: false
 tags:
   - campaign
-  - through-fire-and-fractals
   - map
   - duo/K
+  - the-drift-wager
 date: 2025-06-25
 aliases:
   - tdw
