@@ -17,7 +17,8 @@ aliases:
 
 For my future reference, the plan is to go to [[Mikel-Embyre-Character-Sheet-Level-1.excalidraw]], edit it, take new screenshots, and replace them here.
 
-![[Mikel-Embyre-Character-Sheet-Level-1.excalidraw.png]]
+![[mikel-level-2.png]]
+![[mikel-level-2-page-2.png]]
 
 ### Links to Definitions
 
@@ -39,6 +40,7 @@ He also has access to *spells*.
 
 - [[Aqueous Harmony]]
 - [[Wardpact Invocation]]
+- [[Flame Scrying]]
 
 In his inventory, he has the following:
 
