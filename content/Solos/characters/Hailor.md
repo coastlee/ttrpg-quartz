@@ -4,9 +4,9 @@ tags:
   - system/cosmere
 ---
 
-**Role:** PC  
-**Campaign:** [[MOC - The Spren in the Stars|The Spren in the Stars]]
-**System:** [[MOC - Cosmere RPG|Cosmere]]
+**Role:** PC  <br/>
+**Campaign:** [[MOC - The Spren in the Stars|The Spren in the Stars]]<br/>
+**System:** [[MOC - Cosmere RPG|Cosmere]]<br/>
 
 ## Traits
 

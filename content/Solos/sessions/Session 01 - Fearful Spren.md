@@ -2,9 +2,9 @@
 tags:
   - session/solo
 ---
-**Campaign:** [[MOC - The Spren in the Stars|The Spren in the Stars]]  
-**System:** [[MOC - Cosmere RPG|Cosmere]]  
-**In-Game Date:** 
+**Campaign:** [[MOC - The Spren in the Stars|The Spren in the Stars]]  <br/>
+**System:** [[MOC - Cosmere RPG|Cosmere]]  <br/>
+**In-Game Date:** <br/>
 
 ## Opening Situation
 - Arriving at [[Outpost Khepri]]

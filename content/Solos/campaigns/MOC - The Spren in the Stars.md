@@ -2,9 +2,9 @@
 aliases:
   - The Spren in the Stars
 ---
-**Up.** [[🎲 Solo TTRPG Hub]]
-**System:** [[MOC - Cosmere RPG|Cosmere]]
-**World:** [[MOC - Roshar|Roshar]]
+**Up.** [[🎲 Solo TTRPG Hub]]<br/>
+**System:** [[MOC - Cosmere RPG|Cosmere]]<br/>
+**World:** [[MOC - Roshar|Roshar]]<br/>
 
 ## Current State
 
