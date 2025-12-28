@@ -11,19 +11,21 @@ note-type: Player Character
 
 ## Traits
 
-- Scarred veteran
-- Paranoid but loyal
+- 
 
 ## Relationships
 
 [[Isabel-Fisher-Contacts.canvas|Isabel-Fisher-Contacts]]
 
-- Enemy: [[Virex Syndicate]]
-- Ally: [[Unit K-7]]
+- First Cousin, Aunt, or Uncle: [[]]
+- Shek-Pvar: [[]]
+- Unfriendly: [[]]
+- Friend: [[]]
+- Friend: [[]]
 
 ## Session Appearances
 
-- [[Session 01 - Fearful Spren]]
+- [[Session 01 - The Shek-Pvar]]
 
 ## Character Sheet
 
