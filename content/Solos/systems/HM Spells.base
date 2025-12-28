@@ -1,0 +1,30 @@
+properties:
+  file.name:
+    displayName: Spell Name
+  note.spell-level:
+    displayName: Spell Level
+  note.page-number:
+    displayName: Page Number
+  note.convocation:
+    displayName: Convocation
+  note.description:
+    displayName: Description
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAll("spell", "system/harnmaster")
+    order:
+      - file.name
+      - spell-level
+      - page-number
+      - convocation
+      - description
+    sort:
+      - property: spell-level
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: convocation
+        direction: ASC

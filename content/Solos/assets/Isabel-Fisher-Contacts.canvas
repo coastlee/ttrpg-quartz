@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2c6dc1c82085e548","type":"file","file":"Solos/characters/Isabel Fisher.md","x":-240,"y":-280,"width":400,"height":400},
+		{"id":"4e4482acb3b02637","x":380,"y":-220,"width":250,"height":120,"type":"text","text":"First Cousin, Aunt or Uncle\n- Acquaintance\n- Loyalty: 44%"},
+		{"id":"c72e68d6ee2b4c31","type":"text","text":"Other (GM Option)\n- Acquaintance\n- Loyalty: 39%\n- Occupation: Shek-Pvar","x":380,"y":240,"width":280,"height":155},
+		{"id":"831f16e9d013a2e2","type":"text","text":"Unguilded\n- Unfriendly\n- Loyalty: 23%\n- Occupation: Farmer","x":-161,"y":309,"width":250,"height":171},
+		{"id":"a60224222f5c3060","type":"text","text":"Unguilded\n- Friend\n- Loyalty: 68%\n- Occupation: Cleric","x":-680,"y":-100,"width":250,"height":160},
+		{"id":"f3a01e41a7659b55","type":"text","text":"Serf / Slave\n- Friend\n- Loyalty: 52%\n- Occupation: Herdsman","x":-660,"y":-400,"width":270,"height":160}
+	],
+	"edges":[
+		{"id":"8e87922f9e1d9214","fromNode":"2c6dc1c82085e548","fromSide":"right","toNode":"4e4482acb3b02637","toSide":"left"},
+		{"id":"93d9f2cbb6e9f88d","fromNode":"2c6dc1c82085e548","fromSide":"right","toNode":"c72e68d6ee2b4c31","toSide":"top"},
+		{"id":"9f4f320edba0fd4b","fromNode":"2c6dc1c82085e548","fromSide":"bottom","toNode":"831f16e9d013a2e2","toSide":"top"},
+		{"id":"e3396dfc5766cd47","fromNode":"2c6dc1c82085e548","fromSide":"left","toNode":"a60224222f5c3060","toSide":"right"},
+		{"id":"1e55699f009ee78e","fromNode":"2c6dc1c82085e548","fromSide":"left","toNode":"f3a01e41a7659b55","toSide":"right"}
+	]
+}

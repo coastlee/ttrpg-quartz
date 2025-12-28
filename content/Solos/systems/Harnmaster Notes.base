@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAll("system/harnmaster")
+    order:
+      - file.name
+      - note-type
+      - note-subtype
+    sort:
+      - property: note-type
+        direction: ASC
+    columnSize:
+      note.note-type: 225
