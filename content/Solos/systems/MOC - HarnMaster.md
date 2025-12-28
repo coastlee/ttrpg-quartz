@@ -5,6 +5,6 @@ tags:
   - system/harnmaster
 note-type: Map of Content
 ---
-[[HarnMaster Campaign]]
+[[MOC - Harn Campaign|Harn Campaign]]
 
-[[MOC - HarnMaster Spells]]
+[[MOC - HarnMaster Spells|Spells]]

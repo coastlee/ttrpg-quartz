@@ -14,17 +14,15 @@ note-subtype: Campaign
 
 - Date: 
 - Open Threads:
-  - [[The Silent Station]]
-  - [[The Virex Syndicate]]
+  - [[Isabel's Shek-Pvar Training]]
 
 ### ▶ Current Session
 
-➡️ [[Session 01 - ]]
+➡️ [[Session 01 - The Shek-Pvar]]
 
 ## Sessions
 
-- [[Session 01 - ]]
-- [[Session 02 - Ghost Signals]]
+- [[Session 01 - The Shek-Pvar]]
 
 ## PCs
 
@@ -33,9 +31,13 @@ note-subtype: Campaign
 
 ## Locations
 
-- [[Outpost Khepri]]
-- [[The Silent Station]]
+- [[Kanday]]
+	- [[Aleath]]
+		- [[Veil Enclave (Chantry)]]
+	- [[Erynashire]]
+		- [[Jasalon]]
+		- [[Maryael]]
 
 ## Factions
 
-- [[Virex Syndicate]]
+- [[The Shek-Pvar]]
