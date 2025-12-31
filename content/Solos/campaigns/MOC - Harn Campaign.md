@@ -26,7 +26,7 @@ note-subtype: Campaign
 
 ## PCs
 
-- [[Isabel Fisher]]
+- [[Avilina Fisher]]
 - [[Robin Fisher]]
 
 ## Locations

@@ -15,7 +15,7 @@ note-type: Player Character
 
 ## Relationships
 
-[[Robin Fisher Contacts.canvas|Robin-Fisher-Contacts]]
+[[contacts-robin-fisher.canvas|Robin Fisher Contacts]]
 
 - Enemy: [[]]
 - Close Friend: [[]]
@@ -27,5 +27,5 @@ note-type: Player Character
 
 ## Character Sheet
 
-![[hailor-level-1-front.png]]
-![[hailor-level-1-back.png]]
+![[robin-fisher-character-sheet-page-1.v001.png]]
+![[robin-fisher-character-sheet-page-2.v001.png]]

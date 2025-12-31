@@ -15,7 +15,7 @@ note-type: Player Character
 
 ## Relationships
 
-[[Isabel-Fisher-Contacts.canvas|Isabel-Fisher-Contacts]]
+[[contacts-avilina-fisher.canvas|Avilina Fisher Contacts]]
 
 - First Cousin, Aunt, or Uncle: [[]]
 - Shek-Pvar: [[]]
@@ -29,5 +29,5 @@ note-type: Player Character
 
 ## Character Sheet
 
-![[hailor-level-1-front.png]]
-![[hailor-level-1-back.png]]
+![[avilina-fisher-character-sheet-page-1.v001.png]]
+![[avilina-fisher-character-sheet-page-2.v001.png]]

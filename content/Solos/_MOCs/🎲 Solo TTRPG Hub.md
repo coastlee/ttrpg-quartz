@@ -33,7 +33,7 @@
 - [[Kaladin Stormborn]]
 - [[Captain Vexa]]
 - [[Hailor]]
-- [[Isabel Fisher]]
+- [[Avilina Fisher]]
 - [[Robin Fisher]]
 
 ## Tools

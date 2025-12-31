@@ -20,4 +20,4 @@ aliases:
 
 ## Campaigns Here
 
-- [[MOC - The Spren in the Stars|The Spren in the Stars]]
+- [[MOC - Harn Campaign]]
