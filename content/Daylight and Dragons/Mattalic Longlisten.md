@@ -11,7 +11,7 @@
 
 ## Related Notes
 
-- [[raw_notes/the-party|The Party]]
+- [[Daylight and Dragons/raw_notes/the-party|The Party]]
 - [[The Cast Iron]]
 - [[The Cast Iron Blacksmith]]
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]

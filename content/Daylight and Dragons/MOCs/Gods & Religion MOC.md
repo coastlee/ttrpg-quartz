@@ -24,5 +24,5 @@ Use this MOC to track deities, temples, cults, rites, religious factions, holy s
 ## Maintenance
 
 - Track deity names, domains, holy symbols, taboos, rites, and associated factions.
-- Link religious factions to [[MOCs/Factions MOC|Factions MOC]].
-- Link supernatural mysteries to [[MOCs/Open Questions MOC|Open Questions MOC]].
+- Link religious factions to [[Daylight and Dragons/MOCs/Factions MOC|Factions MOC]].
+- Link supernatural mysteries to [[Daylight and Dragons/MOCs/Open Questions MOC|Open Questions MOC]].

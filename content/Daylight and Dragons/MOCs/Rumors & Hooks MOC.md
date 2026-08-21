@@ -27,6 +27,6 @@ Use this MOC to capture leads, rumors, hints, bait, and unresolved invitations t
 
 ## Maintenance
 
-- Move hooks into [[MOCs/Quests MOC|Quests MOC]] when the party commits to action.
-- Move hooks into [[MOCs/Open Questions MOC|Open Questions MOC]] when the party lacks enough information.
-- Move hooks into [[MOCs/Consequences MOC|Consequences MOC]] when they produce fallout.
+- Move hooks into [[Daylight and Dragons/MOCs/Quests MOC|Quests MOC]] when the party commits to action.
+- Move hooks into [[Daylight and Dragons/MOCs/Open Questions MOC|Open Questions MOC]] when the party lacks enough information.
+- Move hooks into [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]] when they produce fallout.

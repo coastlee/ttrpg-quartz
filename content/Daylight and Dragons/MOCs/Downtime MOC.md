@@ -26,4 +26,4 @@ Use this MOC to track crafting, research, shopping, training, travel, recovery, 
 ## Maintenance
 
 - Record downtime action, acting character, cost, time spent, roll, result, and consequence.
-- Link deadlines and travel plans to [[MOCs/Calendar MOC|Calendar MOC]].
+- Link deadlines and travel plans to [[Daylight and Dragons/MOCs/Calendar MOC|Calendar MOC]].

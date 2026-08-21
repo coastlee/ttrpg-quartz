@@ -25,4 +25,4 @@ The shop leader at [[The Cast Iron]] has not yet been named.
 - [[Magic Coin Bag]]
 - [[Rowan I]]
 - [[Mattalic Longlisten]]
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]

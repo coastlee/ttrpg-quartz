@@ -7,7 +7,7 @@ Use this MOC to track plot threads, hooks, threats, obligations, and unresolved 
 ### The Masked Attackers
 
 - Status: Active
-- First seen: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- First seen: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Related notes: [[Masked Attackers]], [[The Mound]], [[Nelly]], [[dragonborn]], [[Dragonborn Masks]], [[The Cast Iron]]
 - Summary: Masked figures harassed [[Nelly]] at [[The Mound]]. The party killed them, took their masks, and discovered they were [[dragonborn]], a race of legend.
 - Next leads: Investigate who hired them, why [[Nelly]] was targeted, and what proof [[The Cast Iron]] expects.
@@ -15,7 +15,7 @@ Use this MOC to track plot threads, hooks, threats, obligations, and unresolved 
 ### The Cast Iron Job
 
 - Status: Active
-- First seen: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- First seen: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Related notes: [[The Cast Iron]], [[The Cast Iron Blacksmith]], [[Rowan I]], [[Mark]], [[Mattalic Longlisten]], [[Dragonborn Masks]]
 - Summary: [[Rowan I]] disguised himself as a dragonborn and was treated by the blacksmith as someone expected to finish a task. The blacksmith paid half upfront and asked for proof tomorrow.
 - Next leads: Determine what the task is, what proof is expected, and whether the blacksmith is an employer, intermediary, or conspirator.
@@ -23,7 +23,7 @@ Use this MOC to track plot threads, hooks, threats, obligations, and unresolved 
 ### The Emptying Coin Bag
 
 - Status: Active
-- First seen: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- First seen: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Related notes: [[Magic Coin Bag]], [[The Cast Iron]], [[The Cast Iron Blacksmith]], [[Mark]], [[Leo]], [[Rowan I]]
 - Summary: The coin bag received from the blacksmith became lighter as the party walked away. After the coins spilled, the bag was empty; [[Rowan I]] found runes inside and identified it as magical.
 - Next leads: Identify the bag's enchantment, whether the money returned to the blacksmith, and whether the bag can be tracked.

@@ -20,6 +20,6 @@
 
 ## Related Notes
 
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
-- [[raw_notes/setting|Setting Notes]]
-- [[MOCs/Timeline MOC|Timeline MOC]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/raw_notes/setting|Setting Notes]]
+- [[Daylight and Dragons/MOCs/Timeline MOC|Timeline MOC]]

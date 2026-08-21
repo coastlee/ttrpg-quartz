@@ -30,5 +30,5 @@ Use this MOC to track fallout from party actions, world changes, debts, injuries
 ## Maintenance
 
 - Record what changed, who knows, and what will happen next if ignored.
-- Link deadlines to [[MOCs/Calendar MOC|Calendar MOC]].
-- Link major fallout to [[MOCs/Active Threads MOC|Active Threads MOC]].
+- Link deadlines to [[Daylight and Dragons/MOCs/Calendar MOC|Calendar MOC]].
+- Link major fallout to [[Daylight and Dragons/MOCs/Active Threads MOC|Active Threads MOC]].

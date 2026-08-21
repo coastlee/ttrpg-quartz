@@ -4,18 +4,18 @@ Use this MOC to navigate session records, recaps, and raw notes awaiting cleanup
 
 ## Parsed Session Notes
 
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 
 ## Raw Session Notes
 
-- [[raw_notes/20260627-game-log|2026-06-27 Game Log]] - parsed to [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/raw_notes/20260627-game-log|2026-06-27 Game Log]] - parsed to [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 
 ## Session Index
 
 ### Session 1
 
-- Source: [[raw_notes/20260627-game-log|2026-06-27 Game Log]]
-- Parsed note: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- Source: [[Daylight and Dragons/raw_notes/20260627-game-log|2026-06-27 Game Log]]
+- Parsed note: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Status: Parsed recap only
 - Key locations: [[The Mound]], [[Dragoncrest]]
 - Key NPCs: [[Nelly]]
@@ -23,8 +23,8 @@ Use this MOC to navigate session records, recaps, and raw notes awaiting cleanup
 
 ### Session 2
 
-- Source: [[raw_notes/20260627-game-log|2026-06-27 Game Log]]
-- Parsed note: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- Source: [[Daylight and Dragons/raw_notes/20260627-game-log|2026-06-27 Game Log]]
+- Parsed note: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Status: Parsed
 - Key locations: [[Dragoncrest]], [[The Cast Iron]]
 - Key participants: [[Rowan I]], [[Mark]], [[Leo]], [[Mattalic Longlisten]]
@@ -70,6 +70,6 @@ d: Roll or resolution -> Result
 ## Maintenance
 
 - After parsing a raw note, add the parsed note under `Parsed Session Notes`.
-- Update [[MOCs/Active Threads MOC|Active Threads MOC]] with new hooks or resolved plots.
-- Update [[MOCs/Timeline MOC|Timeline MOC]] with major events.
-- Update [[MOCs/Open Questions MOC|Open Questions MOC]] with unresolved mysteries.
+- Update [[Daylight and Dragons/MOCs/Active Threads MOC|Active Threads MOC]] with new hooks or resolved plots.
+- Update [[Daylight and Dragons/MOCs/Timeline MOC|Timeline MOC]] with major events.
+- Update [[Daylight and Dragons/MOCs/Open Questions MOC|Open Questions MOC]] with unresolved mysteries.

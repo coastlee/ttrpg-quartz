@@ -4,7 +4,7 @@ Use this MOC to track real session dates, in-world dates, deadlines, timers, hol
 
 ## Real Session Dates
 
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]] - Session 1 recap and Session 2 notes.
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]] - Session 1 recap and Session 2 notes.
 
 ## In-World Dates
 
@@ -29,4 +29,4 @@ Use this MOC to track real session dates, in-world dates, deadlines, timers, hol
 ## Maintenance
 
 - Convert relative deadlines like "tomorrow" into in-world dates once the calendar is known.
-- Link expired deadlines to [[MOCs/Consequences MOC|Consequences MOC]].
+- Link expired deadlines to [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]].

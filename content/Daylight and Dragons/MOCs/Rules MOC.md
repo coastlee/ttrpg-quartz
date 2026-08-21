@@ -33,5 +33,5 @@ Use this MOC to track house rules, rulings, system assumptions, mechanics observ
 ## Maintenance
 
 - Add rulings as they occur using `(rule: ...)` in parsed session notes.
-- Link rules that affect downtime to [[MOCs/Downtime MOC|Downtime MOC]].
-- Link repeated combat mechanics to [[MOCs/Encounters MOC|Encounters MOC]].
+- Link rules that affect downtime to [[Daylight and Dragons/MOCs/Downtime MOC|Downtime MOC]].
+- Link repeated combat mechanics to [[Daylight and Dragons/MOCs/Encounters MOC|Encounters MOC]].

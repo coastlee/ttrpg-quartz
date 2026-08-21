@@ -25,4 +25,4 @@ Use this MOC to track non-player characters, named contacts, unnamed but recurri
 
 - Split an NPC group into individual notes once members become recurring.
 - Track attitude toward the party, faction ties, current location, and what they know.
-- Link NPCs to [[MOCs/Relationships MOC|Relationships MOC]] when their connection to the party changes.
+- Link NPCs to [[Daylight and Dragons/MOCs/Relationships MOC|Relationships MOC]] when their connection to the party changes.

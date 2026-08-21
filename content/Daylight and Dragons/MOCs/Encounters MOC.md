@@ -6,14 +6,14 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 
 ### The Mound Attack
 
-- Session: [[parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 1 recap
+- Session: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 1 recap
 - Location: [[The Mound]]
 - Opposition: [[Masked Attackers]]
 - Outcome: attackers killed; [[Dragonborn Masks]] recovered.
 
 ### Street Ambush
 
-- Session: [[parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
+- Session: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
 - Location: streets near [[The Cast Iron]]
 - Opposition: [[Street Pursuers]]
 - Outcome: combat complete; survivor status unclear.
@@ -22,14 +22,14 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 
 ### The Cast Iron Deception
 
-- Session: [[parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
+- Session: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
 - Location: [[The Cast Iron]]
 - Key NPC: [[The Cast Iron Blacksmith]]
 - Outcome: [[Rowan I]] successfully deceived the blacksmith while disguised as a [[dragonborn]].
 
 ### Longlisten's Trade
 
-- Session: [[parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
+- Session: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]], Session 2
 - Location: [[The Cast Iron]]
 - Outcome: [[Mattalic Longlisten]] traded an antler rack for a knife and agreed to guide the party through the woods.
 

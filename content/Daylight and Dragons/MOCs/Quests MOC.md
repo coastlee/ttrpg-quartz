@@ -40,4 +40,4 @@ Use this MOC to track active, completed, failed, abandoned, and suspected quests
 
 ## Maintenance
 
-- Link quest changes to [[MOCs/Active Threads MOC|Active Threads MOC]], [[MOCs/Calendar MOC|Calendar MOC]], and [[MOCs/Consequences MOC|Consequences MOC]].
+- Link quest changes to [[Daylight and Dragons/MOCs/Active Threads MOC|Active Threads MOC]], [[Daylight and Dragons/MOCs/Calendar MOC|Calendar MOC]], and [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]].

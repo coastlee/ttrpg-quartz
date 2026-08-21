@@ -27,4 +27,4 @@
 - [[The Cast Iron Blacksmith]]
 - [[Magic Coin Bag]]
 - [[dragonborn]]
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]

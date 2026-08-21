@@ -34,4 +34,4 @@ Use this MOC to track spells, magical items, arcane laws, curses, rituals, magic
 ## Maintenance
 
 - Track spell users, item owners, activation conditions, costs, and limitations.
-- Move treasure-bearing objects to [[MOCs/Items & Treasure MOC|Items & Treasure MOC]] as well.
+- Move treasure-bearing objects to [[Daylight and Dragons/MOCs/Items & Treasure MOC|Items & Treasure MOC]] as well.

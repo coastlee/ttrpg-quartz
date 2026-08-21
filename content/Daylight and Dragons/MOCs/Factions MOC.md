@@ -24,4 +24,4 @@ Use this MOC to track organizations, social groups, power blocs, and candidate f
 
 - Promote a candidate to confirmed once the party learns it has structure, membership, goals, or resources.
 - Track faction standing with the party as allied, friendly, neutral, suspicious, hostile, or unknown.
-- Link faction actions to [[MOCs/Consequences MOC|Consequences MOC]].
+- Link faction actions to [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]].

@@ -15,7 +15,7 @@ Use this MOC to track campaign chronology, world history revealed at the table, 
 
 ### Session 1
 
-- Source: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- Source: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - The campaign opened at [[The Mound]], a pub owned by [[Nelly]] in [[Dragoncrest]].
 - Masked figures harassed [[Nelly]].
 - The party fought and killed the attackers.
@@ -23,7 +23,7 @@ Use this MOC to track campaign chronology, world history revealed at the table, 
 
 ### Session 2
 
-- Source: [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- Source: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - The party investigated why someone might target [[Nelly]].
 - The party went to the wealthy district of [[Dragoncrest]].
 - The party visited [[The Cast Iron]], a blacksmith that uses wood in its forging process.

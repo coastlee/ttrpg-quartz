@@ -24,6 +24,6 @@ Use this MOC to navigate all places, regions, districts, buildings, travel route
 ## Maintenance
 
 - Create individual notes for districts, routes, dungeons, and landmarks once they recur.
-- Link settlements to [[MOCs/Cities & Settlements MOC|Cities & Settlements MOC]].
-- Link adventure sites to [[MOCs/Dungeons & Adventure Sites MOC|Dungeons & Adventure Sites MOC]].
-- Link map files or sketches through [[MOCs/Maps MOC|Maps MOC]].
+- Link settlements to [[Daylight and Dragons/MOCs/Cities & Settlements MOC|Cities & Settlements MOC]].
+- Link adventure sites to [[Daylight and Dragons/MOCs/Dungeons & Adventure Sites MOC|Dungeons & Adventure Sites MOC]].
+- Link map files or sketches through [[Daylight and Dragons/MOCs/Maps MOC|Maps MOC]].

@@ -24,6 +24,6 @@ Use this MOC to track alliances, debts, obligations, grudges, loyalties, and sus
 
 ## Maintenance
 
-- Record concrete obligations with deadlines in [[MOCs/Calendar MOC|Calendar MOC]].
-- Record relationship fallout in [[MOCs/Consequences MOC|Consequences MOC]].
+- Record concrete obligations with deadlines in [[Daylight and Dragons/MOCs/Calendar MOC|Calendar MOC]].
+- Record relationship fallout in [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]].
 - Update a relationship whenever an NPC helps, betrays, threatens, pays, or demands something from the party.

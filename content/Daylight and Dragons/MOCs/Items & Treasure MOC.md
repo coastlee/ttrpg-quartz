@@ -27,4 +27,4 @@ Use this MOC to track magic items, mundane gear, loot, valuables, debts, and pro
 ## Maintenance
 
 - Track current holder, source, known properties, suspected properties, and session first acquired.
-- Move identified magical effects to [[MOCs/Magic & Arcana MOC|Magic & Arcana MOC]].
+- Move identified magical effects to [[Daylight and Dragons/MOCs/Magic & Arcana MOC|Magic & Arcana MOC]].

@@ -24,4 +24,4 @@ Use this MOC to track confirmed villains, antagonists, hostile forces, and suspe
 
 - Promote suspects to confirmed villains only when the party has evidence.
 - Track goals, resources, known agents, weaknesses, and recent actions.
-- Link villain moves to [[MOCs/Consequences MOC|Consequences MOC]].
+- Link villain moves to [[Daylight and Dragons/MOCs/Consequences MOC|Consequences MOC]].

@@ -34,5 +34,5 @@ Use this MOC to track revealed setting facts, history, legends, cosmology, and r
 ## Maintenance
 
 - Link lore facts to the session where they were learned.
-- Move religious lore to [[MOCs/Gods & Religion MOC|Gods & Religion MOC]].
-- Move magical principles to [[MOCs/Magic & Arcana MOC|Magic & Arcana MOC]].
+- Move religious lore to [[Daylight and Dragons/MOCs/Gods & Religion MOC|Gods & Religion MOC]].
+- Move magical principles to [[Daylight and Dragons/MOCs/Magic & Arcana MOC|Magic & Arcana MOC]].

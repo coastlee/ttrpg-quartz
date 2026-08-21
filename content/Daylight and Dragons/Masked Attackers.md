@@ -22,4 +22,4 @@ The masked attackers harassed [[Nelly]] at [[The Mound]] during Session 1.
 - [[The Mound]]
 - [[Dragonborn Masks]]
 - [[dragonborn]]
-- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
