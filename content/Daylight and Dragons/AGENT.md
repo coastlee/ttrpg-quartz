@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Initial Concept
 
 ## Map of Concepts (MOCs)
