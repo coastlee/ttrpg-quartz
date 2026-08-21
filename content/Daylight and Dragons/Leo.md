@@ -1,3 +1,19 @@
+---
+title: "Leo"
+campaign: "Daylight and Dragons"
+type: "player_character"
+player: "Will"
+ancestry: "eladrin"
+character_class: "wizard"
+status: "active"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/player-character
+  - ancestry/eladrin
+  - class/wizard
+---
+
 # Leo
 
 [[Leo]] is an eladrin wizard played by Will.

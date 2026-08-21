@@ -1,3 +1,17 @@
+---
+title: "Masked Attackers"
+campaign: "Daylight and Dragons"
+type: "group"
+group_type: "hostile force"
+status: "defeated"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/group
+  - type/antagonist
+  - status/defeated
+---
+
 # Masked Attackers
 
 The masked attackers harassed [[Nelly]] at [[The Mound]] during Session 1.

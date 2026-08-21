@@ -1,3 +1,19 @@
+---
+title: "The Cast Iron Blacksmith"
+aliases:
+  - "Blacksmith"
+campaign: "Daylight and Dragons"
+type: "npc"
+role: "shop leader"
+status: "unnamed"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/npc
+  - npc/unnamed
+  - npc/suspect
+---
+
 # The Cast Iron Blacksmith
 
 The shop leader at [[The Cast Iron]] has not yet been named.

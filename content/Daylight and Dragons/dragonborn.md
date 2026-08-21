@@ -1,3 +1,17 @@
+---
+title: "dragonborn"
+campaign: "Daylight and Dragons"
+type: "lore"
+lore_type: "ancestry"
+status: "legendary"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/lore
+  - lore/ancestry
+  - ancestry/dragonborn
+---
+
 # dragonborn
 
 [[dragonborn]] are a race of legend in the campaign setting.

@@ -1,3 +1,19 @@
+---
+title: "Mark"
+campaign: "Daylight and Dragons"
+type: "player_character"
+player: "Erick"
+ancestry: "orc"
+character_class: "barbarian"
+status: "active"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/player-character
+  - ancestry/orc
+  - class/barbarian
+---
+
 # Mark
 
 [[Mark]] is an orc barbarian played by Erick.

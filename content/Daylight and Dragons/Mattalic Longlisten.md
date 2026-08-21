@@ -1,3 +1,22 @@
+---
+title: "Mattalic Longlisten"
+aliases:
+  - "Longlisten"
+campaign: "Daylight and Dragons"
+type: "player_character"
+player: "Josh"
+ancestry: "halfling"
+character_class: "cleric"
+domain: "nature"
+status: "active"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/player-character
+  - ancestry/halfling
+  - class/cleric
+---
+
 # Mattalic Longlisten
 
 [[Mattalic Longlisten]] is a primitive halfling nature cleric played by Josh.

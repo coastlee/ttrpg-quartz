@@ -1,3 +1,17 @@
+---
+title: "Street Pursuers"
+campaign: "Daylight and Dragons"
+type: "group"
+group_type: "hostile force"
+status: "hostile"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/group
+  - type/antagonist
+  - status/hostile
+---
+
 # Street Pursuers
 
 The street pursuers followed the party after they left [[The Cast Iron]] during Session 2.

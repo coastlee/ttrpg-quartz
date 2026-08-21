@@ -1,3 +1,18 @@
+---
+title: "Nelly"
+campaign: "Daylight and Dragons"
+type: "npc"
+ancestry: "kenku"
+role: "owner of The Mound"
+status: "active"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/npc
+  - ancestry/kenku
+  - npc/contact
+---
+
 # Nelly
 
 [[Nelly]] is a kenku and the owner of [[The Mound]] in [[Dragoncrest]].

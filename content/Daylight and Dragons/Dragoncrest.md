@@ -1,3 +1,18 @@
+---
+title: "Dragoncrest"
+campaign: "Daylight and Dragons"
+type: "location"
+location_type: "city"
+status: "active"
+population: 10000
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/location
+  - location/city
+  - location/settlement
+---
+
 # Dragoncrest
 
 [[Dragoncrest]] is the starting city for the campaign.

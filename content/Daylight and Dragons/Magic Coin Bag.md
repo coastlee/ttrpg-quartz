@@ -1,3 +1,18 @@
+---
+title: "Magic Coin Bag"
+campaign: "Daylight and Dragons"
+type: "item"
+item_type: "magic item"
+status: "unidentified"
+holder: "party"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/item
+  - item/magic
+  - item/clue
+---
+
 # Magic Coin Bag
 
 The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] during Session 2.

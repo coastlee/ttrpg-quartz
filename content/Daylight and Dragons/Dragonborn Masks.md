@@ -1,3 +1,17 @@
+---
+title: "Dragonborn Masks"
+campaign: "Daylight and Dragons"
+type: "item"
+item_type: "mask"
+status: "unidentified"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/item
+  - item/clue
+  - item/mask
+---
+
 # Dragonborn Masks
 
 The party recovered these masks from the [[Masked Attackers]] at [[The Mound]].

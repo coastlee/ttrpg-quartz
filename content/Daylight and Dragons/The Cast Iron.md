@@ -1,3 +1,20 @@
+---
+title: "The Cast Iron"
+campaign: "Daylight and Dragons"
+type: "location"
+location_type: "blacksmith"
+district: "wealthy district"
+status: "active"
+faction_candidate: true
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/location
+  - location/business
+  - location/blacksmith
+  - faction/candidate
+---
+
 # The Cast Iron
 
 [[The Cast Iron]] is a blacksmith in the wealthy district of [[Dragoncrest]].

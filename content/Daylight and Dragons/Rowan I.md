@@ -1,3 +1,19 @@
+---
+title: "Rowan I"
+campaign: "Daylight and Dragons"
+type: "player_character"
+player: "Atu"
+ancestry: "half-orc"
+character_class: "warlock"
+status: "active"
+first_seen: "2026-06-27"
+tags:
+  - campaign/daylight-and-dragons
+  - type/player-character
+  - ancestry/half-orc
+  - class/warlock
+---
+
 # Rowan I
 
 [[Rowan I]] is a half-orc warlock played by Atu.
