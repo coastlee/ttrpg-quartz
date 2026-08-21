@@ -6,7 +6,7 @@ This is the campaign home MOC for the Daylight and Dragons notes.
 
 ### Core Campaign
 
-- [[index|Campaign Home MOC]]
+- [[Daylights and Dragons Home|Campaign Home MOC]]
 - [[MOCs/Session Notes MOC|Session Notes MOC]]
 - [[MOCs/Active Threads MOC|Active Threads MOC]]
 - [[MOCs/Timeline MOC|Timeline MOC]]
@@ -60,7 +60,7 @@ This is the campaign home MOC for the Daylight and Dragons notes.
 
 - [[raw_notes/setting|Setting Notes]]
 - [[raw_notes/the-party|The Party]]
-- [[partylog|Partylog Notation]]
+- Partylog Notation
 
 ## Campaign Snapshot
 

@@ -4,7 +4,7 @@ Use this MOC to track house rules, rulings, system assumptions, mechanics observ
 
 ## Logging Conventions
 
-- [[partylog|Partylog Notation]] is the preferred format for parsed session logs.
+- Partylog notation is the preferred format for parsed session logs.
 - Session notation should use `@(...)` for actions, `!` for world events, `d:` for rolls, and `=>` for consequences.
 - Digital session notes should wrap Partylog notation in markdown code fences.
 
