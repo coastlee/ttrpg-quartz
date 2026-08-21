@@ -1,0 +1,26 @@
+# Street Pursuers
+
+The street pursuers followed the party after they left [[The Cast Iron]] during Session 2.
+
+## Known Details
+
+- The party noticed them with Perception rolls of 14, 16, and 19.
+- At least one was described as an "oaf."
+- One spellcaster cast Chromatic Orb from an alleyway.
+- One leader was targeted by [[Mattalic Longlisten]].
+- The combat ended after [[Mark]] threw a handaxe at the remaining survivor.
+
+## Open Questions
+
+- Were they sent by [[The Cast Iron Blacksmith]]?
+- Were they trying to recover the [[Magic Coin Bag]]?
+- Did any pursuer survive?
+- Are they connected to the [[Masked Attackers]]?
+
+## Related Notes
+
+- [[The Cast Iron]]
+- [[Magic Coin Bag]]
+- [[Leo]]
+- [[Mattalic Longlisten]]
+- [[parsed_notes/2026-06-27|2026-06-27 Game Log]]
