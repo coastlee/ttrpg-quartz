@@ -14,6 +14,8 @@ tags:
   - class/warlock
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Player Characters MOC|Player Characters MOC]]
+
 # Rowan I
 
 [[Rowan I]] is a half-orc warlock played by Atu.

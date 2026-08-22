@@ -14,6 +14,8 @@ tags:
   - class/barbarian
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Player Characters MOC|Player Characters MOC]]
+
 # Mark
 
 [[Mark]] is an orc barbarian played by Erick.

@@ -12,6 +12,8 @@ tags:
   - status/defeated
 ---
 
+> Up: [[Daylight and Dragons/MOCs/NPCs MOC|NPCs MOC]] · [[Daylight and Dragons/MOCs/Villains MOC|Villains MOC]]
+
 # Masked Attackers
 
 The masked attackers harassed [[Nelly]] at [[The Mound]] during Session 1.

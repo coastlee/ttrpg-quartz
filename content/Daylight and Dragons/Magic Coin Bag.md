@@ -13,6 +13,8 @@ tags:
   - item/clue
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Items & Treasure MOC|Items & Treasure MOC]] · [[Daylight and Dragons/MOCs/Magic & Arcana MOC|Magic & Arcana MOC]]
+
 # Magic Coin Bag
 
 The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] during Session 2.

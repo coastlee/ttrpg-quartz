@@ -17,6 +17,8 @@ tags:
   - class/cleric
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Player Characters MOC|Player Characters MOC]]
+
 # Mattalic Longlisten
 
 [[Mattalic Longlisten]] is a primitive halfling nature cleric played by Josh.

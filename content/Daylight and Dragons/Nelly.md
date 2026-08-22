@@ -13,6 +13,8 @@ tags:
   - npc/contact
 ---
 
+> Up: [[Daylight and Dragons/MOCs/NPCs MOC|NPCs MOC]]
+
 # Nelly
 
 [[Nelly]] is a kenku and the owner of [[The Mound]] in [[Dragoncrest]].

@@ -14,6 +14,8 @@ tags:
   - npc/suspect
 ---
 
+> Up: [[Daylight and Dragons/MOCs/NPCs MOC|NPCs MOC]] · [[Daylight and Dragons/MOCs/Villains MOC|Villains MOC]]
+
 # The Cast Iron Blacksmith
 
 The shop leader at [[The Cast Iron]] has not yet been named.

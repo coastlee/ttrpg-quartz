@@ -15,6 +15,8 @@ tags:
   - faction/candidate
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Locations MOC|Locations MOC]] · [[Daylight and Dragons/MOCs/Factions MOC|Factions MOC]]
+
 # The Cast Iron
 
 [[The Cast Iron]] is a blacksmith in the wealthy district of [[Dragoncrest]].

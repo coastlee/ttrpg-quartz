@@ -12,6 +12,8 @@ tags:
   - item/mask
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Items & Treasure MOC|Items & Treasure MOC]] · [[Daylight and Dragons/MOCs/Magic & Arcana MOC|Magic & Arcana MOC]]
+
 # Dragonborn Masks
 
 The party recovered these masks from the [[Masked Attackers]] at [[The Mound]].

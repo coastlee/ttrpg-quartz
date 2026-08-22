@@ -14,6 +14,8 @@ tags:
   - class/wizard
 ---
 
+> Up: [[Daylight and Dragons/MOCs/Player Characters MOC|Player Characters MOC]]
+
 # Leo
 
 [[Leo]] is an eladrin wizard played by Will.
