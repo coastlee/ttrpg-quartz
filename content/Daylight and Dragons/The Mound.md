@@ -18,7 +18,7 @@ tags:
 
 [[The Mound]] is a pub or inn in [[Dragoncrest]] owned by [[Nelly]] the kenku.
 
-![The Mound](assets/maps/the-mound.webp)
+![[Daylight and Dragons/assets/maps/the-mound.webp|The Mound]]
 
 ## Known Details
 
