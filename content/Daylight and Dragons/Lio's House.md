@@ -20,6 +20,8 @@ tags:
 
 [[Lio's House]] is a dormitory, group home, or homeless shelter in the [[Undercity]].
 
+![Lio's Place](assets/maps/lios-place.webp)
+
 ## Known Details
 
 - [[Jessica]] welcomes [[Lio]] there.

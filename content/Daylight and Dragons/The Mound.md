@@ -18,6 +18,8 @@ tags:
 
 [[The Mound]] is a pub or inn in [[Dragoncrest]] owned by [[Nelly]] the kenku.
 
+![The Mound](assets/maps/the-mound.webp)
+
 ## Known Details
 
 - The starting scene of the campaign began here.
