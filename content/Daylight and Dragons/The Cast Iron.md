@@ -34,7 +34,7 @@ tags:
 - The blacksmith gave the party a coin bag as "half now, half when you have proof."
 - The blacksmith asked the party to bring proof tomorrow for the next job.
 - The coin bag later emptied itself after the party left.
-- The 2026-08-22 Session 2 continuation clarified the expected proof as proof of [[Nelly]]'s demise.
+- Session 3 clarified the expected proof as proof of [[Nelly]]'s demise.
 - An elf from The Cast Iron later came to [[Lio's House]], said he was looking for his friend, and disappeared with [[Mark]].
 
 ## Open Questions

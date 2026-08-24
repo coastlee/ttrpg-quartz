@@ -1,4 +1,8 @@
-# 20260822 Session 2 Notes
+---
+draft: true
+---
+
+# 20260822 Session 3 Notes
 
 Source PDF: `/Users/jjenkins/Downloads/20260822.Session.2.notes.pdf`
 
@@ -6,7 +10,7 @@ Transcription note: converted from handwritten notes. Unclear words are marked w
 
 ## Header
 
-20260822 Session 2
+20260822 Session 3
 
 Level up! 3 -> 4
 
@@ -179,7 +183,7 @@ Nelly has small nest for sleeping, small dresser, shared restrooms, small teeny 
 
 @Mark: Peeks in all curtains/rooms => gets cussed out.
 
-@Nelly: Explanation owed. "I do have debts, but I omitted a few things about my debts. Owe to dwarf Drunken Soberbeard. He often collects debts. Don't know if he works with or owns guards, but sends them. Part of debt to start my business. Also to get my son back (past/lost collateral). Could not keep up with payments of The Mound. Son was taken from me
+@Nelly: Explanation owed. "I do have debts, but I omitted a few things about my debts. Owe to dwarf Drunken Soberbeard. He often collects debts. Don't know if he works with or owns guards, but sends them. Debt was to start my business. Could not keep up with payments of The Mound. As a result, my son was taken from me."
 @Lio: Recognizes Drunken Soberbeard? Yes.
 
 => Mark backstory place he calls home: cook, lower/middle class, no father present, raised by hard-working mother, father's fate unknown to the party, Chef's Guild.

@@ -14,19 +14,19 @@ tags:
 
 # Nelly's Son
 
-[[Nelly's Son]] is missing and appears to be tied to [[Nelly]]'s debt to [[Drunken Soberbeard]].
+[[Nelly's Son]] is missing after being taken as fallout from [[Nelly]] missing payments on her debt to [[Drunken Soberbeard]].
 
 ## Known Details
 
-- [[Nelly]] took on debt partly to get her son back.
-- Drunken Soberbeard took him about three months before the 2026-08-22 session.
+- [[Nelly]] took on debt tied to starting [[The Mound]].
+- After Nelly missed payments, her debtors took her son about three months before the 2026-08-22 session.
 - Nelly does not know where he is kept.
 
 ## Open Questions
 
 - What is his name?
 - Where is he being held?
-- Why did Drunken Soberbeard take him?
+- Who exactly took him, and where did they take him?
 - Is he alive and safe?
 
 ## Related Notes

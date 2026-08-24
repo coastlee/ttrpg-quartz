@@ -20,7 +20,7 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 
 ### Nelly's Home Trap
 
-- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 3
 - Location: [[Nelly's Home]]
 - Hazard: rope trap around [[Mark]]'s throat
 - Outcome: Mark took 15 force damage; [[Mattalic Longlisten]] cut him free.
@@ -42,14 +42,14 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 
 ### Nelly's Debt Confession
 
-- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 3
 - Location: [[Lio's House]]
 - Key NPCs: [[Nelly]], [[Drunken Soberbeard]]
 - Outcome: Nelly revealed her debt, missing son, and referral by [[Werewolf Referral Person]].
 
 ### Cast Iron Elf Intrusion
 
-- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 3
 - Location: [[Lio's House]]
 - Key NPC: [[Cast Iron Elf]]
 - Outcome: the elf found the party and disappeared with [[Mark]].

@@ -33,7 +33,7 @@ Use this MOC to track plot threads, hooks, threats, obligations, and unresolved 
 - Status: Active
 - First seen: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
 - Related notes: [[Nelly]], [[Drunken Soberbeard]], [[Nelly's Son]], [[Werewolf Referral Person]], [[The Mound]]
-- Summary: Nelly owes Drunken Soberbeard money connected to starting The Mound and trying to recover her son. She is behind on payments and believes his agents may be after her.
+- Summary: Nelly owes Drunken Soberbeard money connected to starting The Mound. After she missed payments, her debtors took her son; she is still behind on payments and believes Drunken's agents may be after her.
 - Next leads: Investigate Drunken Soberbeard, the referral person, and whether Drunken is connected to the Cast Iron job.
 
 ### Nelly's Missing Son
@@ -41,7 +41,7 @@ Use this MOC to track plot threads, hooks, threats, obligations, and unresolved 
 - Status: Active
 - First seen: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
 - Related notes: [[Nelly's Son]], [[Nelly]], [[Drunken Soberbeard]]
-- Summary: Nelly's son was taken about three months before the 2026-08-22 session. Nelly does not know where he is held.
+- Summary: Nelly's son was taken by her debtors about three months before the 2026-08-22 session after she missed payments. Nelly does not know where he is held.
 - Next leads: Find out where Drunken keeps people and whether the missing son is alive.
 
 ### Mark's Disappearance

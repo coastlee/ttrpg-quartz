@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 The world is made out of precious metals. The people of this world are nocturnal. People who go out during the daytime disappear. The wealthy have wood. In fact, the coinage itself is made out of wood. Dirt, plants, trees, are all signs of wealth. Many lavish dishes incorporate the meats of woodland creatures. The wealthy also have their metals engraved and filagreed, whereas the gold of the poor is often lumpy and poorly shaped.
 
 In this world, magic is common. Weapons are rare. Precious metals are nearly as plentiful as dirt on our world. Almost everything is made of gold.

@@ -28,7 +28,7 @@ tags:
 - Lio's message was: "If diamonds glitter, then what are emeralds?"
 - During the street ambush, Lio cast Message at the oaf, then used Witch Bolt against the oaf.
 - Lio maintained Witch Bolt for automatic damage during the fight.
-- In the 2026-08-22 Session 2 continuation, Lio spotted a [[Hooded Blackguard]] watching the party after the street ambush.
+- In Session 3, Lio spotted a [[Hooded Blackguard]] watching the party after the street ambush.
 - Lio suggested going to [[The Mound]], then helped convince [[Nelly]] to move somewhere safer.
 - During the chase through the [[Undercity]], Lio cast Message to Nelly and blocked [[Mattalic Longlisten]] from tackling her.
 - Lio brought Nelly to [[Lio's House]] after [[Nelly's Home]] was found trapped.
@@ -37,7 +37,7 @@ tags:
 
 ## Related Notes
 
-- [[Daylight and Dragons/raw_notes/the-party|The Party]]
+- `raw_notes/the-party.md`
 - [[Street Pursuers]]
 - [[Undercity]]
 - [[Lio's House]]

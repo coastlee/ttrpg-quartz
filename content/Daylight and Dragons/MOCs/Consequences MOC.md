@@ -19,7 +19,7 @@ Use this MOC to track fallout from party actions, world changes, debts, injuries
 - The party fought [[Street Pursuers]] after leaving [[The Cast Iron]].
 - [[Rowan I]] took 4 damage in the street ambush.
 - [[Mark]] took 6 damage in the street ambush.
-- The 2026-08-22 continuation revealed that the expected proof concerns [[Nelly]]'s demise.
+- Session 3 revealed that the expected proof concerns [[Nelly]]'s demise.
 - [[Nelly]] fled [[The Mound]] and exposed the party to a chase through the [[Undercity]].
 - [[Nelly's Home]] is compromised and trapped.
 - [[Mark]] took 15 force damage from the rope trap at Nelly's home.

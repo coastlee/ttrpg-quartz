@@ -5,7 +5,7 @@ Use this MOC to track real session dates, in-world dates, deadlines, timers, hol
 ## Real Session Dates
 
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]] - Session 1 recap and Session 2 notes.
-- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]] - Session 2 continuation.
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]] - Session 3.
 
 ## In-World Dates
 

@@ -23,10 +23,10 @@ tags:
 
 - Nelly was harassed by masked, cloaked figures during Session 1.
 - The party investigated why someone might want to rough Nelly up.
-- During the 2026-08-22 Session 2 continuation, Nelly was worried when the party said [[The Cast Iron]] wanted proof of her demise.
-- Nelly owes [[Drunken Soberbeard]] for debt tied to starting [[The Mound]] and trying to recover [[Nelly's Son]].
+- During Session 3, Nelly was worried when the party said [[The Cast Iron]] wanted proof of her demise.
+- Nelly owes [[Drunken Soberbeard]] for debt tied to starting [[The Mound]].
 - Nelly is nearly under 10,000 owed after three years and is almost halfway paid off.
-- [[Nelly's Son]] was taken from her about three months before the 2026-08-22 session.
+- After Nelly missed payments on the debt, [[Nelly's Son]] was taken from her by her debtors about three months before the 2026-08-22 session.
 - Nelly was referred to Drunken Soberbeard by [[Werewolf Referral Person]].
 - Nelly's home is a tiny residence in the [[Undercity]], carved into the interior side of [[Dragoncrest]]'s outer wall.
 - Nelly gathered a small wooden box, clothes, and a fine metal staff made of gold and silver before leaving [[Nelly's Home]].

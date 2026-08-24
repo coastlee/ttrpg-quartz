@@ -44,5 +44,5 @@ tags:
 
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
-- [[Daylight and Dragons/raw_notes/setting|Setting Notes]]
+- `raw_notes/setting.md`
 - [[Daylight and Dragons/MOCs/Timeline MOC|Timeline MOC]]

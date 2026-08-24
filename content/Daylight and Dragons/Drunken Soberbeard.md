@@ -22,9 +22,8 @@ tags:
 ## Known Details
 
 - [[Nelly]] owes him money.
-- Part of Nelly's debt was for starting [[The Mound]].
-- Part of Nelly's debt was to get [[Nelly's Son]] back.
-- Nelly's son was taken from her about three months before the 2026-08-22 session; the raw note leaves unclear whether this was the same problem the debt was meant to solve or later fallout.
+- Nelly's debt was tied to starting [[The Mound]].
+- After Nelly missed payments, her son was taken from her by her debtors about three months before the 2026-08-22 session.
 - Nelly is nearly under 10,000 owed after three years and is almost halfway paid off.
 - Drunken Soberbeard is accused of helping missing persons disappear.
 - He rarely makes appearances.

@@ -26,7 +26,7 @@ The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] du
 - The bag became lighter with every step away from [[The Cast Iron]].
 - After Mark bumped into [[Lio]] and spilled the coins, the bag was completely empty.
 - [[Rowan I]] inspected the bag, found runes inside, and deduced it was magical.
-- During the 2026-08-22 Session 2 continuation, Mark discovered the bag has no apparent bottom.
+- During Session 3, Mark discovered the bag has no apparent bottom.
 - Mark stuck a whole leg into the bag.
 - A stone dropped into the bag fell until it disappeared.
 - A coin Mark slid out vanished when [[Nelly]] bolted from [[The Mound]].

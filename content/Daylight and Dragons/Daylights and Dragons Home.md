@@ -53,13 +53,13 @@ This is the campaign home MOC for the Daylight and Dragons notes.
 ## Current Focus
 
 - Review parsed session notes in [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]] and [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]].
-- Use [[Daylight and Dragons/raw_notes/parsed.csv|parsed.csv]] to track which raw notes have been parsed.
+- Use `raw_notes/parsed.csv` to track which raw notes have been parsed.
 - Build entity notes for recurring people, places, factions, items, and mysteries as they appear in play.
 
 ## Fast Links
 
-- [[Daylight and Dragons/raw_notes/setting|Setting Notes]]
-- [[Daylight and Dragons/raw_notes/the-party|The Party]]
+- `raw_notes/setting.md`
+- `raw_notes/the-party.md`
 - Partylog Notation
 
 ## Campaign Snapshot

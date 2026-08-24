@@ -20,7 +20,7 @@ Use this MOC to track alliances, debts, obligations, grudges, loyalties, and sus
 - [[Lio]] and [[Lio's House]]: Lio has connections to [[Jessica]], [[Jasmine]], and other residents there.
 - [[Mattalic Longlisten]] and [[The Cast Iron Blacksmith]]: the blacksmith offered Longlisten a blanket and rope to guide the party through the woods.
 - [[Nelly]] and [[Drunken Soberbeard]]: Nelly owes Drunken money and believes his agents may be after her.
-- [[Nelly]] and [[Nelly's Son]]: Nelly's son was taken about three months before the 2026-08-22 session.
+- [[Nelly]] and [[Nelly's Son]]: Nelly's son was taken by her debtors about three months before the 2026-08-22 session after she missed payments.
 
 ## Suspected Relationships
 
