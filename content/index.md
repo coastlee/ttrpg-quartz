@@ -12,6 +12,9 @@ date: 2025-06-12
 
 ## Campaign Notes
 
+[[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons]]
+- Campaign Notes
+
 [[Through Fire and Fractals]]
 - Next Session: TBD
 - **Previous Session.** [[Session 0.4 - Planet Generation]]
