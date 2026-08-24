@@ -1,5 +1,7 @@
 # Consequences MOC
 
+> Up: [[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons Home]]
+
 Use this MOC to track fallout from party actions, world changes, debts, injuries, deadlines, and altered relationships.
 
 ## Session 1 Consequences

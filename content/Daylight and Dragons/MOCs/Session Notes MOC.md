@@ -1,5 +1,7 @@
 # Session Notes MOC
 
+> Up: [[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons Home]]
+
 Use this MOC to navigate session records, recaps, and raw notes awaiting cleanup.
 
 ## Parsed Session Notes

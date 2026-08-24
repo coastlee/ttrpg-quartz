@@ -1,5 +1,7 @@
 # Rumors & Hooks MOC
 
+> Up: [[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons Home]]
+
 Use this MOC to capture leads, rumors, hints, bait, and unresolved invitations to action.
 
 ## Active Hooks

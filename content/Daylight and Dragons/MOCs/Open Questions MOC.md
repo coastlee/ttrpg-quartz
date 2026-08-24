@@ -1,5 +1,7 @@
 # Open Questions MOC
 
+> Up: [[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons Home]]
+
 Use this MOC to keep mysteries and unanswered campaign facts visible between sessions.
 
 ## Active Questions

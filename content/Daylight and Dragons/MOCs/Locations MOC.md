@@ -1,5 +1,7 @@
 # Locations MOC
 
+> Up: [[Daylight and Dragons/Daylights and Dragons Home|Daylight and Dragons Home]]
+
 Use this MOC to navigate all places, regions, districts, buildings, travel routes, and adventure sites.
 
 ## Major Locations
