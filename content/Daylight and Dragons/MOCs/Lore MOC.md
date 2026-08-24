@@ -23,6 +23,8 @@ Use this MOC to track revealed setting facts, history, legends, cosmology, and r
 - Visitors to the maintained surface section of the forest are recorded and registered.
 - [[The Mound]] is built entirely out of gold.
 - [[The Cast Iron]] uses wood in its forging process.
+- [[Undercity]] folk know [[Drunken Soberbeard]] as a dangerous debt collector and crime boss.
+- Drunken Soberbeard is accused of helping missing persons disappear.
 
 ## Lore Questions
 
@@ -30,6 +32,7 @@ Use this MOC to track revealed setting facts, history, legends, cosmology, and r
 - Why is the world made primarily of precious metals?
 - Why is wood so valuable?
 - What is the true status of [[dragonborn]] in the world?
+- Are Drunken Soberbeard's missing-person rumors related to the setting's daytime disappearances?
 
 ## Maintenance
 

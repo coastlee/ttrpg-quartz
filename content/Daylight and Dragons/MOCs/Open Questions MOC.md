@@ -20,6 +20,16 @@ Use this MOC to keep mysteries and unanswered campaign facts visible between ses
 - Who is ultimately paying for the job?
 - Is [[The Cast Iron]] acting independently or on behalf of a faction?
 - Is [[The Cast Iron Blacksmith]] connected to the [[Masked Attackers]]?
+- Is [[Cast Iron Elf]] acting on behalf of [[The Cast Iron Blacksmith]]?
+- Where did [[Cast Iron Elf]] take [[Mark]]?
+
+### Nelly, Drunken Soberbeard, and the Missing Son
+
+- Where is [[Nelly's Son]] being held?
+- Did [[Drunken Soberbeard]] take Nelly's son directly, or through agents?
+- Does Drunken control guards, hire guards, or send people posing as guards?
+- Did Drunken plant [[Werewolf Referral Person]] to refer debtors to him?
+- Is Drunken connected to [[The Cast Iron]] or the proof job?
 
 ### Magic Coin Bag
 
@@ -28,6 +38,7 @@ Use this MOC to keep mysteries and unanswered campaign facts visible between ses
 - Can the bag be used to track or identify the party?
 - Was the emptying bag a trap, a test, or normal payment procedure?
 - Were the [[Street Pursuers]] following the party because of the [[Magic Coin Bag]]?
+- Is the bag bottomless, extradimensional, a portal, or something else?
 
 ### Setting Mysteries
 

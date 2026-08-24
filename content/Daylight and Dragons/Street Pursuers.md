@@ -37,6 +37,6 @@ The street pursuers followed the party after they left [[The Cast Iron]] during 
 
 - [[The Cast Iron]]
 - [[Magic Coin Bag]]
-- [[Leo]]
+- [[Lio]]
 - [[Mattalic Longlisten]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]

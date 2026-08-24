@@ -5,10 +5,12 @@ Use this MOC to navigate session records, recaps, and raw notes awaiting cleanup
 ## Parsed Session Notes
 
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
 
 ## Raw Session Notes
 
 - [[Daylight and Dragons/raw_notes/20260627-game-log|2026-06-27 Game Log]] - parsed to [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/raw_notes/20260822-session-2-notes|2026-08-22 Session 2 Notes]] - parsed to [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
 
 ## Session Index
 
@@ -27,8 +29,18 @@ Use this MOC to navigate session records, recaps, and raw notes awaiting cleanup
 - Parsed note: [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
 - Status: Parsed
 - Key locations: [[Dragoncrest]], [[The Cast Iron]]
-- Key participants: [[Rowan I]], [[Mark]], [[Leo]], [[Mattalic Longlisten]]
+- Key participants: [[Rowan I]], [[Mark]], [[Lio]], [[Mattalic Longlisten]]
 - Key discoveries: [[The Cast Iron]] appears connected to the masked attackers; a magic coin bag emptied itself as the party moved away.
+
+### Session 2 Continuation
+
+- Source: [[Daylight and Dragons/raw_notes/20260822-session-2-notes|2026-08-22 Session 2 Notes]]
+- Parsed note: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
+- Status: Parsed
+- Key locations: [[The Mound]], [[Undercity]], [[Nelly's Home]], [[Lio's House]]
+- Key participants: [[Rowan I]], [[Mark]], [[Lio]], [[Mattalic Longlisten]], [[Nelly]]
+- Key discoveries: [[Nelly]] owes [[Drunken Soberbeard]], [[Nelly's Son]] is missing, and [[Cast Iron Elf]] disappeared with [[Mark]].
+- Note: The raw note labels this as Session 2 even though the prior parsed note also contains Session 2 material.
 
 ## Session Note Template
 

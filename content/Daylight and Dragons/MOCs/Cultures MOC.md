@@ -23,7 +23,7 @@ Use this MOC to track customs, class markers, social norms, languages, taboos, a
 - Kenku - [[Nelly]]
 - Half-orc - [[Rowan I]]
 - Orc - [[Mark]]
-- Eladrin - [[Leo]]
+- Eladrin - [[Lio]]
 - Halfling - [[Mattalic Longlisten]]
 
 ## Cultural Questions

@@ -5,10 +5,17 @@ Use this MOC to track non-player characters, named contacts, unnamed but recurri
 ## Named NPCs
 
 - [[Nelly]] - kenku owner of [[The Mound]]
+- [[Drunken Soberbeard]] - dwarf crime boss and debt collector known in the [[Undercity]]
+- [[Nelly's Son]] - missing child tied to Nelly's debt
+- [[Jessica]] - succubus at [[Lio's House]]
+- [[Jasmine]] - resident or associate at [[Lio's House]]
 
 ## Unnamed NPCs
 
 - [[The Cast Iron Blacksmith]] - shop leader at [[The Cast Iron]]
+- [[Hooded Blackguard]] - watcher who followed or observed the party after the street ambush
+- [[Cast Iron Elf]] - hostile elf from [[The Cast Iron]] who disappeared with [[Mark]]
+- [[Werewolf Referral Person]] - wolf-like person who referred [[Nelly]] to [[Drunken Soberbeard]]
 
 ## NPC Groups
 

@@ -13,9 +13,27 @@ Use this MOC to track active, completed, failed, abandoned, and suspected quests
 ### The Cast Iron Proof
 
 - Status: Active
-- Related notes: [[The Cast Iron]], [[The Cast Iron Blacksmith]], [[Rowan I]], [[Dragonborn Masks]]
+- Related notes: [[The Cast Iron Job]], [[Proof of Nelly's Demise]], [[The Cast Iron]], [[The Cast Iron Blacksmith]], [[Rowan I]], [[Dragonborn Masks]], [[Nelly]]
 - Deadline: tomorrow after Session 2
 - Current lead: Bring proof to [[The Cast Iron Blacksmith]] without revealing the party's deception.
+
+### Recover Mark
+
+- Status: Active
+- Related notes: [[Mark]], [[Cast Iron Elf]], [[Lio's House]], [[The Cast Iron]]
+- Current lead: Determine where Cast Iron Elf took Mark and why.
+
+### Rescue Nelly's Son
+
+- Status: Active
+- Related notes: [[Nelly's Son]], [[Nelly]], [[Drunken Soberbeard]], [[Undercity]]
+- Current lead: Investigate Drunken Soberbeard's missing-person connections and where he keeps people.
+
+### Investigate Drunken Soberbeard
+
+- Status: Active
+- Related notes: [[Drunken Soberbeard]], [[Nelly]], [[Werewolf Referral Person]], [[Nelly's Son]]
+- Current lead: Learn whether Drunken planted the referral person and whether he controls the guards or agents chasing Nelly.
 
 ### Guide Through the Woods
 
@@ -28,7 +46,7 @@ Use this MOC to track active, completed, failed, abandoned, and suspected quests
 
 - Status: Active
 - Related notes: [[Magic Coin Bag]], [[The Cast Iron]], [[Rowan I]], [[Mark]]
-- Current lead: Determine why the coin bag emptied itself.
+- Current lead: Determine why the coin bag emptied itself and why objects dropped into it appear to disappear.
 
 ## Completed Quests
 

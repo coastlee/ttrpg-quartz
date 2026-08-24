@@ -24,10 +24,16 @@ tags:
 - The building is fashioned entirely out of gold.
 - Masked, cloaked figures harassed [[Nelly]] here during Session 1.
 - The party fought and killed the attackers.
+- During the 2026-08-22 Session 2 continuation, Nelly was at the bar again six to eight hours after the attack and appeared to have moved on.
+- Nelly told the party she was still figuring out the best way to cook the meat.
+- Nelly bolted out the back door after learning [[The Cast Iron]] expected proof of her demise.
+- Nelly said The Mound has employees, raising the possibility that it can operate without her temporarily.
 
 ## Related Notes
 
 - [[Nelly]]
 - [[Masked Attackers]]
 - [[Dragoncrest]]
+- [[Proof of Nelly's Demise]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]

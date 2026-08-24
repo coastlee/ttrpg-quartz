@@ -27,6 +27,11 @@ tags:
 - Rowan successfully deceived [[The Cast Iron Blacksmith]] with a Deception roll of 16.
 - Rowan inspected the empty [[Magic Coin Bag]], found runes inside, and deduced it was magical.
 - In the street ambush, Rowan took 4 damage, pushed an enemy back 5 feet, cast Eldritch Blast, and later hit with a Hexblade attack for 10 damage plus Hexblade's Curse.
+- In the 2026-08-22 Session 2 continuation, Rowan suggested looting the bodies after the street ambush.
+- Rowan peeked out of [[The Mound]] and saw a hooded figure watching after [[Nelly]] grew nervous.
+- Rowan's backstory surfaced: orphan, outcast, and no real place to call home.
+- Rowan used Disguise Self as a police-artist tool while [[Nelly]] described [[Werewolf Referral Person]].
+- At [[Lio's House]], Rowan hushed the group after [[Lio]] warned him that [[Cast Iron Elf]] was at the door.
 
 ## Related Notes
 
@@ -34,4 +39,8 @@ tags:
 - [[The Cast Iron]]
 - [[The Cast Iron Blacksmith]]
 - [[Magic Coin Bag]]
+- [[Hooded Blackguard]]
+- [[Werewolf Referral Person]]
+- [[Cast Iron Elf]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]

@@ -4,7 +4,7 @@ Use this MOC to track magic items, mundane gear, loot, valuables, debts, and pro
 
 ## Magic or Possibly Magical Items
 
-- [[Magic Coin Bag]] - magical bag with runes that emptied itself after leaving [[The Cast Iron]]
+- [[Magic Coin Bag]] - magical bag with runes that emptied itself after leaving [[The Cast Iron]]; later appeared bottomless and made a dropped stone disappear
 - [[Dragonborn Masks]] - recovered from the [[Masked Attackers]]; magical status unknown
 
 ## Mundane Items and Gear
@@ -16,6 +16,8 @@ Use this MOC to track magic items, mundane gear, loot, valuables, debts, and pro
 ## Money and Valuables
 
 - Satchel of coins from [[The Cast Iron Blacksmith]] - emptied or disappeared after leaving [[The Cast Iron]].
+- [[Nelly]]'s carried belongings after leaving [[Nelly's Home]]: small wooden box, clothes, and a fine metal staff made of gold and silver.
+- [[Nelly]]'s remaining debt to [[Drunken Soberbeard]] is nearly under 10,000.
 
 ## Open Item Questions
 
@@ -23,6 +25,7 @@ Use this MOC to track magic items, mundane gear, loot, valuables, debts, and pro
 - Are the [[Dragonborn Masks]] useful as proof?
 - Was the [[Magic Coin Bag]] a trap or a test?
 - Was the knife ordinary or notable?
+- What is inside Nelly's wooden box?
 
 ## Maintenance
 

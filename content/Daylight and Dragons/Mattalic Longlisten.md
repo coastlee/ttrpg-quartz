@@ -29,10 +29,19 @@ tags:
 - [[The Cast Iron Blacksmith]] offered Longlisten a blanket and rope to guide the party through the woods tomorrow.
 - Longlisten agreed.
 - During the street ambush, Longlisten cast Barkskin, cast Shillelagh, missed the enemy leader once, and later hit with a club for 11 damage.
+- In the 2026-08-22 Session 2 continuation, Longlisten took a cloak from the bodies after the street ambush and treated it as a blanket.
+- Longlisten grew defensive when [[Mark]] tried to coax him into the [[Magic Coin Bag]].
+- Longlisten chased [[Nelly]] through the [[Undercity]], caught her once before she teleported, and later leapt at her after the chase ended.
+- Longlisten cut the rope trap from Mark's throat at [[Nelly's Home]], saving him from the trap.
+- At [[Lio's House]], Longlisten hid in a corner behind Mark when [[Cast Iron Elf]] arrived.
 
 ## Related Notes
 
 - [[Daylight and Dragons/raw_notes/the-party|The Party]]
 - [[The Cast Iron]]
 - [[The Cast Iron Blacksmith]]
+- [[Magic Coin Bag]]
+- [[Nelly's Home]]
+- [[Lio's House]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]

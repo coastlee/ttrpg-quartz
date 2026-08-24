@@ -34,16 +34,23 @@ tags:
 - The blacksmith gave the party a coin bag as "half now, half when you have proof."
 - The blacksmith asked the party to bring proof tomorrow for the next job.
 - The coin bag later emptied itself after the party left.
+- The 2026-08-22 Session 2 continuation clarified the expected proof as proof of [[Nelly]]'s demise.
+- An elf from The Cast Iron later came to [[Lio's House]], said he was looking for his friend, and disappeared with [[Mark]].
 
 ## Open Questions
 
 - What task was expected?
 - What proof is due tomorrow?
 - Is the shop connected to the [[Masked Attackers]]?
+- Who is [[Cast Iron Elf]]'s friend?
+- Where did [[Cast Iron Elf]] take [[Mark]]?
 
 ## Related Notes
 
 - [[The Cast Iron Blacksmith]]
+- [[Cast Iron Elf]]
 - [[Magic Coin Bag]]
+- [[Proof of Nelly's Demise]]
 - [[dragonborn]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]

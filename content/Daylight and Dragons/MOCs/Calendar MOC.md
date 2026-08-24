@@ -5,6 +5,7 @@ Use this MOC to track real session dates, in-world dates, deadlines, timers, hol
 ## Real Session Dates
 
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]] - Session 1 recap and Session 2 notes.
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]] - Session 2 continuation.
 
 ## In-World Dates
 
@@ -19,6 +20,7 @@ Use this MOC to track real session dates, in-world dates, deadlines, timers, hol
 
 - `[Timer:Proof for The Cast Iron 1 day]`
 - `[Timer:Woods guide job 1 day]`
+- `[Timer:Nelly's Son taken ~3 months ago]`
 
 ## Calendar Questions
 

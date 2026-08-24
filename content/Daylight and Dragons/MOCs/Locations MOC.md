@@ -7,12 +7,15 @@ Use this MOC to navigate all places, regions, districts, buildings, travel route
 - [[Dragoncrest]] - starting city
 - [[The Mound]] - pub or inn owned by [[Nelly]]
 - [[The Cast Iron]] - blacksmith in the wealthy district
+- [[Undercity]] - lower district with more visible crime and desperate activity
 
 ## Districts and Areas
 
 - Wealthy district of [[Dragoncrest]] - filigreed gold, carved metal, visible plants, access to wood.
 - Forest inside [[Dragoncrest]] - manicured surface section and deeper untamed woods.
 - Streets near [[The Cast Iron]] - site of the ambush by [[Street Pursuers]].
+- [[Nelly's Home]] - tiny compromised home carved into the interior side of Dragoncrest's outer wall.
+- [[Lio's House]] - dormitory, group home, or homeless shelter in the [[Undercity]].
 
 ## Location Questions
 
@@ -20,6 +23,8 @@ Use this MOC to navigate all places, regions, districts, buildings, travel route
 - How dangerous are the deeper woods?
 - Where does [[The Cast Iron]] get wood for forging?
 - Where did the [[Street Pursuers]] come from?
+- Who controls or polices the [[Undercity]]?
+- Where did [[Cast Iron Elf]] take [[Mark]]?
 
 ## Maintenance
 

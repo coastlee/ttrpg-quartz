@@ -52,7 +52,7 @@ This is the campaign home MOC for the Daylight and Dragons notes.
 
 ## Current Focus
 
-- Review parsed session notes in [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]].
+- Review parsed session notes in [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]] and [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]].
 - Use [[Daylight and Dragons/raw_notes/parsed.csv|parsed.csv]] to track which raw notes have been parsed.
 - Build entity notes for recurring people, places, factions, items, and mysteries as they appear in play.
 
@@ -64,7 +64,7 @@ This is the campaign home MOC for the Daylight and Dragons notes.
 
 ## Campaign Snapshot
 
-[[Dragoncrest]] is the starting city. The campaign opened at [[The Mound]], a gold-built pub owned by [[Nelly]] the kenku. The party encountered masked figures later revealed to be [[dragonborn]], a race of legend, and followed that thread toward [[The Cast Iron]] in the wealthy district.
+[[Dragoncrest]] is the starting city. The campaign opened at [[The Mound]], a gold-built pub owned by [[Nelly]] the kenku. The party encountered masked figures later revealed to be [[dragonborn]], a race of legend, and followed that thread toward [[The Cast Iron]] in the wealthy district. The latest parsed session moved the focus into the [[Undercity]], where Nelly's debt to [[Drunken Soberbeard]], [[Nelly's Son]], and [[Mark]]'s disappearance became active threads.
 
 ## Maintenance
 

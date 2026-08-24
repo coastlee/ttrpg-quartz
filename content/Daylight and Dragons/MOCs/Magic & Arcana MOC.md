@@ -7,17 +7,20 @@ Use this MOC to track spells, magical items, arcane laws, curses, rituals, magic
 - Magic is common.
 - Weapons are rare.
 - A [[Magic Coin Bag]] with runes emptied itself after the party left [[The Cast Iron]].
+- The Magic Coin Bag appeared bottomless during the 2026-08-22 session, and a dropped stone disappeared into it.
 
 ## Spells and Magical Abilities Seen
 
 - Disguise Self - used by [[Rowan I]] to appear as a [[dragonborn]].
-- Message - used by [[Leo]] before and during the street ambush.
+- Message - used by [[Lio]] before and during the street ambush.
 - Barkskin - used by [[Mattalic Longlisten]].
 - Shillelagh - used by [[Mattalic Longlisten]].
-- Witch Bolt - used by [[Leo]].
+- Witch Bolt - used by [[Lio]].
 - Chromatic Orb - used by the hidden spellcaster among the [[Street Pursuers]].
 - Eldritch Blast - used by [[Rowan I]].
 - Hexblade's Curse - used by [[Rowan I]].
+- Snare - cast by [[Lio]] at [[Nelly's Home]].
+- Teleportation or disappearance - used by [[Nelly]] during the Undercity chase and by [[Cast Iron Elf]] when he disappeared with [[Mark]].
 
 ## Magical Items and Objects
 
@@ -30,6 +33,7 @@ Use this MOC to track spells, magical items, arcane laws, curses, rituals, magic
 - Can magic explain daytime disappearances?
 - Are [[dragonborn]] magical, legendary, hidden, or disguised?
 - Are the [[Dragonborn Masks]] magical?
+- Is [[Cast Iron Elf]]'s disappearance effect the same kind of magic as Nelly's teleportation?
 
 ## Maintenance
 

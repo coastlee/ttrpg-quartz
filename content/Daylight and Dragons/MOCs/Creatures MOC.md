@@ -5,11 +5,15 @@ Use this MOC to track monsters, ancestries, recurring enemy types, animals, and 
 ## Peoples and Ancestries
 
 - [[dragonborn]] - race of legend; attackers from Session 1 were identified as dragonborn.
-- Kenku - [[Nelly]]
+- Kenku - [[Nelly]], whose appearance is reminiscent of a shoebill stork.
 - Half-orc - [[Rowan I]]
 - Orc - [[Mark]]
-- Eladrin - [[Leo]]
+- Eladrin - [[Lio]]
 - Halfling - [[Mattalic Longlisten]]
+- Dwarf - [[Drunken Soberbeard]]
+- Elf - [[Cast Iron Elf]]
+- Succubus - [[Jessica]]
+- Werewolf or wolf-like person - [[Werewolf Referral Person]]
 
 ## Hostile Creature Groups
 

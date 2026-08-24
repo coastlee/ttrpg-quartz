@@ -11,6 +11,11 @@ Use this MOC to capture leads, rumors, hints, bait, and unresolved invitations t
 - The [[Magic Coin Bag]] emptied itself after the party left [[The Cast Iron]].
 - [[Street Pursuers]] followed the party after they left [[The Cast Iron]].
 - [[Mattalic Longlisten]] is expected to guide the party through the woods tomorrow.
+- [[Nelly]] owes [[Drunken Soberbeard]], who is accused of helping missing persons disappear.
+- [[Nelly's Son]] was taken about three months before the 2026-08-22 session.
+- [[Werewolf Referral Person]] may have steered Nelly toward Drunken Soberbeard.
+- [[Cast Iron Elf]] found the party at [[Lio's House]] and disappeared with [[Mark]].
+- [[Nelly's Home]] was trapped, suggesting her enemies know where she lives.
 
 ## Setting Hooks
 
@@ -24,6 +29,7 @@ Use this MOC to capture leads, rumors, hints, bait, and unresolved invitations t
 - Which hooks are connected to the same conspiracy?
 - Which hooks are merely setting facts?
 - Which hook should become the next session's opening scene?
+- Are [[The Cast Iron]] and [[Drunken Soberbeard]] connected or separate threats?
 
 ## Maintenance
 

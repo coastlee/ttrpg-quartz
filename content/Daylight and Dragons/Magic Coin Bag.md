@@ -24,8 +24,12 @@ The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] du
 - The blacksmith offered it as half payment before receiving proof.
 - [[Mark]] took the satchel of coins.
 - The bag became lighter with every step away from [[The Cast Iron]].
-- After Mark bumped into [[Leo]] and spilled the coins, the bag was completely empty.
+- After Mark bumped into [[Lio]] and spilled the coins, the bag was completely empty.
 - [[Rowan I]] inspected the bag, found runes inside, and deduced it was magical.
+- During the 2026-08-22 Session 2 continuation, Mark discovered the bag has no apparent bottom.
+- Mark stuck a whole leg into the bag.
+- A stone dropped into the bag fell until it disappeared.
+- A coin Mark slid out vanished when [[Nelly]] bolted from [[The Mound]].
 
 ## Open Questions
 
@@ -33,6 +37,7 @@ The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] du
 - Does the bag track distance from its owner or source?
 - Was the bag a trap, a test, or a standard payment mechanism?
 - Can the bag be used to identify or track the party?
+- Is the bag a storage space, portal, disposal item, or distance-based retrieval item?
 
 ## Related Notes
 
@@ -41,3 +46,4 @@ The [[Magic Coin Bag]] was given to the party by [[The Cast Iron Blacksmith]] du
 - [[Mark]]
 - [[Rowan I]]
 - [[Daylight and Dragons/parsed_notes/2026-06-27|2026-06-27 Game Log]]
+- [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]

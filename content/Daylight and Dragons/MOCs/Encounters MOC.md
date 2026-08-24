@@ -18,6 +18,13 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 - Opposition: [[Street Pursuers]]
 - Outcome: combat complete; survivor status unclear.
 
+### Nelly's Home Trap
+
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Location: [[Nelly's Home]]
+- Hazard: rope trap around [[Mark]]'s throat
+- Outcome: Mark took 15 force damage; [[Mattalic Longlisten]] cut him free.
+
 ## Social Encounters
 
 ### The Cast Iron Deception
@@ -33,11 +40,27 @@ Use this MOC to track combat, social, exploration, and investigation encounters.
 - Location: [[The Cast Iron]]
 - Outcome: [[Mattalic Longlisten]] traded an antler rack for a knife and agreed to guide the party through the woods.
 
+### Nelly's Debt Confession
+
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Location: [[Lio's House]]
+- Key NPCs: [[Nelly]], [[Drunken Soberbeard]]
+- Outcome: Nelly revealed her debt, missing son, and referral by [[Werewolf Referral Person]].
+
+### Cast Iron Elf Intrusion
+
+- Session: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]], Session 2 continuation
+- Location: [[Lio's House]]
+- Key NPC: [[Cast Iron Elf]]
+- Outcome: the elf found the party and disappeared with [[Mark]].
+
 ## Exploration and Investigation Encounters
 
 - Investigating why someone targeted [[Nelly]].
 - Noticing the party was being followed after leaving [[The Cast Iron]].
 - Inspecting the [[Magic Coin Bag]].
+- Chasing [[Nelly]] through the [[Undercity]] after she fled [[The Mound]].
+- Searching [[Nelly's Home]] after discovering it was trapped.
 
 ## Maintenance
 

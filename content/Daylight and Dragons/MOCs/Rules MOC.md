@@ -28,7 +28,7 @@ Use this MOC to track house rules, rulings, system assumptions, mechanics observ
 
 - Confirm the exact ruleset and edition.
 - Clarify whether flanking is a table rule, since Mark attacked while flanking.
-- Clarify how hidden casting affected Leo's Witch Bolt.
+- Clarify how hidden casting affected Lio's Witch Bolt.
 
 ## Maintenance
 

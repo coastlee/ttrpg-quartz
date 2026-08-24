@@ -34,10 +34,22 @@ Use this MOC to track campaign chronology, world history revealed at the table, 
 - The coin bag emptied itself after the party left [[The Cast Iron]].
 - The party noticed they were being followed and fought the pursuers.
 
+### Session 2 Continuation
+
+- Source: [[Daylight and Dragons/parsed_notes/2026-08-22|2026-08-22 Game Log]]
+- After the street ambush, the party found the [[Magic Coin Bag]] appeared bottomless and could make a stone disappear.
+- The party returned to [[The Mound]] and told [[Nelly]] that [[The Cast Iron]] wanted proof of her demise.
+- Nelly fled, triggering a chase through the [[Undercity]].
+- A trap at [[Nelly's Home]] nearly strangled [[Mark]], dealing 15 force damage before [[Mattalic Longlisten]] cut him free.
+- Nelly revealed debts to [[Drunken Soberbeard]] and that [[Nelly's Son]] was taken about three months earlier.
+- Nelly described [[Werewolf Referral Person]], who referred her to Drunken Soberbeard.
+- At [[Lio's House]], [[Cast Iron Elf]] arrived from [[The Cast Iron]] and disappeared with [[Mark]].
+
 ## Upcoming Deadlines
 
 - Tomorrow after Session 2: bring proof to [[The Cast Iron]] for the next job.
 - Tomorrow after Session 2: [[Mattalic Longlisten]] is expected to guide the group through the woods.
+- Immediate unresolved event after the 2026-08-22 session: find where [[Cast Iron Elf]] took [[Mark]].
 
 ## World History
 
