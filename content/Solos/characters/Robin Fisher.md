@@ -11,7 +11,11 @@ note-type: Player Character
 
 ## Traits
 
-- 
+- Strong, a giant among men (6' 3" @ 204 lbs)
+- Handsome, blonde hair & hazel eyes
+- Sunsign: Aralius
+- Birthdate: 25 Peonu 701 TR
+- Birthplace: Jasalon, Erynashire, Kanday
 
 ## Relationships
 

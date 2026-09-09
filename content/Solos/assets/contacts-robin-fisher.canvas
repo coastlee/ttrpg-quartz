@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"4e4482acb3b02637","type":"text","text":"Other (GM Option)\n- Enemy\n- Loyalty: None\n- Oblivious Polymath\n- Motivation: Patronize Pride\n- Young female","x":380,"y":-220,"width":300,"height":200},
 		{"id":"c72e68d6ee2b4c31","type":"text","text":"Other (GM Option)\n- Close Friend\n- Loyalty: 81%\n- Occupation: Potentially Bailiff (Manor)\n- Confident Aristocrat\n- Slightly Stronger\n- Develop Enlightenment\n- Young male","x":380,"y":240,"width":380,"height":260},
-		{"id":"831f16e9d013a2e2","type":"text","text":"Other (GM Option)\n- Acquaintance\n- Loyalty: 38%\n- Occupation: Potentially Bailiff (Manor)\n- Cultured Civilian\n- Middle-aged Male\n- Conquer Atrocities","x":-161,"y":309,"width":381,"height":251},
-		{"id":"52bfdab67a50ca33","type":"file","file":"Solos/characters/Robin Fisher.md","x":-236,"y":-300,"width":400,"height":400}
+		{"id":"52bfdab67a50ca33","type":"file","file":"Solos/characters/Robin Fisher.md","x":-236,"y":-300,"width":400,"height":400},
+		{"id":"831f16e9d013a2e2","type":"text","text":"Other (GM Option)\n- Acquaintance\n- Loyalty: 38%\n- Occupation: Potentially Bailiff (Manor)\n- Cultured Civilian\n- Middle-aged Male\n- Conquer Atrocities","x":-160,"y":280,"width":381,"height":251}
 	],
 	"edges":[
 		{"id":"4fd664868e1f1c06","fromNode":"52bfdab67a50ca33","fromSide":"right","toNode":"4e4482acb3b02637","toSide":"left"},
