@@ -27,3 +27,5 @@ date: 2025-06-12
 
 [[Online Games]]
 - Place for me to manage the online games I'm participating in
+
+[[2026098.Ruby.Camping]]
